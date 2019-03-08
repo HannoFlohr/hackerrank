@@ -1,6 +1,13 @@
 # Solutions for hackerrank.com problems
 coded in c++/c++14
 
+last: "Plus Minus" page34
+
+## algorithms/bit manipulation
+Problem | Solution
+------- | --------
+[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem) | FlippingBits.cpp
+
 ## algorithms/constructive algorithms
 Problem | Solution
 ------- | --------
@@ -16,6 +23,8 @@ Problem | Solution
 ## algorithms/dynamic programming
 Problem | Solution
 ------- | --------
+[Abbreviation](https://www.hackerrank.com/challenges/abbr/problem) | Abbreviation.cpp
+[Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers/problem) | DecibinaryNumbers.cpp
 [Equal](https://www.hackerrank.com/challenges/equal/problem) | Equal.cpp
 [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem) | CoinChange.cpp
 
@@ -43,6 +52,7 @@ Problem | Solution
 Problem | Solution
 ------- | --------
 [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem) | BeautifulPairs.cpp
+[Candies](https://www.hackerrank.com/challenges/candies/problem) | Candies.cpp
 [Chief Hopper](https://www.hackerrank.com/challenges/chief-hopper/problem) | [ChiefHopper.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/greedy/ChiefHopper.cpp)
 [Cutting Boards](https://www.hackerrank.com/challenges/board-cutting/problem) | [CuttingBoards.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/greedy/CuttingBoards.cpp)
 [Goodland Electricity](https://www.hackerrank.com/challenges/pylons/problem) | GoodlandElectricity.cpp
@@ -61,27 +71,69 @@ Problem | Solution
 ------- | --------
 [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem) | 3DSurfaceArea.cpp
 [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem) | AbsolutePermutation.cpp
+[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem) | ACMTeam.cpp
 [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem) | AlmostSorted.cpp
+[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | AngryProfessor.cpp
+[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | AppendAndDelete.cpp
+[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | AppleAndOrange.cpp
+[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | BeautifulDaysAtMovies.cpp
+[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | BeautifulTriplets.cpp
+[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | BetweenTwoSets.cpp
 [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | BiggerIsGreater.cpp
+[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | BirthdayChocolates.cpp
+[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem) | BonAppetit.cpp
+[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | BreakingTheRecords.cpp
+[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | CatsAndMouse.cpp
 [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem) | CavityMap.cpp
 [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem) | ChocolateFeast.cpp
+[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | CircularArrayRotation.cpp
+[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | ClimbingTheLeaderboard.cpp
+[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | CutTheSticks.cpp
+[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | DayOfTheProgrammer.cpp
+[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | DesignerPDFViewer.cpp
+[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | DivisibleSumPairs.cpp
+[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | DrawingBook.cpp
+[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | ElectronicsShop.cpp
 [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses/problem) | TwoPluses.cpp
 [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | Encryption.cpp
+[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | EqualizeTheArray.cpp
+[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | ExtraLongFactorials.cpp
 [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | FairRations.cpp
+[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | FindDigits.cpp
 [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | FlatlandSpaceStations.cpp
+[Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | FormingAMagicSquare.cpp
+[Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem) | FriendCircleQueries.cpp
+[Grading Students](https://www.hackerrank.com/challenges/grading/problem | GradingStudents.cpp
 [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) | HalloweenSale.cpp
 [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | HappyLadybugs.cpp
+[Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | JumpingCloudsRevisited.cpp
+[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) | Kangaroo.cpp
 [Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem) | LarrysArray.cpp
+[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | LibraryFine.cpp
 [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | LisasWorkbook.cpp
 [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | ManasaAndStones.cpp
 [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) | MatrixLayerRotation.cpp
+[Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor/problem) | MaximumXor.cpp (timeouts)
+[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | MigratoryBirds.cpp
+[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) | MinimumDistances.cpp
+[Minimum Time Required](https://www.hackerrank.com/challenges/minimum-time-required/problem) | MinimumTimeRequired.cpp
 [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) | ModifiedKaprekarNumbers.cpp
+[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | NonDivisibleSubset.cpp
+[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | PickingNumbers.cpp
 [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | OrganizingContainersOfBalls.cpp
+[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem) | QueensAttack2.cpp
+[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | SaveThePrisoner.cpp
 [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem) | ServiceLane.cpp
+[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | SequenceEquation.cpp
+[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | SherlockAndSquares.cpp
 [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem) | StrangeCounter.cpp
+[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem) | TaumAndBday.cpp
 [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem) | TheBombermanGame.cpp
 [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem) | TheGridSearch.cpp
+[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | TheHurdleRace.cpp
 [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | TheTimeInWords.cpp
+[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | UtopianTree.cpp
+[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | ViralAdvertising.cpp
 
 ## algorithms/recursion
 Problem | Solution
@@ -153,6 +205,20 @@ Problem | Solution
 [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem) | TheLoveletterMystery.cpp
 [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem) | TwoCharacters.cpp
 [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) | WeightedUniformStrings.cpp
+
+## algorithms/warmup
+Problem | Solution
+------- | --------
+[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | BirthdayCakeCandles.cpp
+[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | MiniMaxSum.cpp
+[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | PlusMinus.cpp
+[Staircase](https://www.hackerrank.com/challenges/staircase/problem) | Staircase.cpp
+[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | TimeConversion.cpp
+
+##cracking the coding interview
+Problem | Solution
+------- | --------
+[Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem) | Primality.cpp
 
 ## artificial intelligence
 Problem | Solution
