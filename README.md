@@ -1,7 +1,7 @@
 # Solutions for hackerrank.com problems
 coded in c++/c++14
 
-last: "Plus Minus" page34
+last: "ComparingNumbers" page38
 
 ## algorithms/bit manipulation
 Problem | Solution
@@ -100,6 +100,7 @@ Problem | Solution
 [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | ExtraLongFactorials.cpp
 [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | FairRations.cpp
 [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | FindDigits.cpp
+[Find the nearest clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem) | FindTheNearestClone.cpp
 [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | FlatlandSpaceStations.cpp
 [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | FormingAMagicSquare.cpp
 [Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem) | FriendCircleQueries.cpp
@@ -117,6 +118,7 @@ Problem | Solution
 [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | MigratoryBirds.cpp
 [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) | MinimumDistances.cpp
 [Minimum Time Required](https://www.hackerrank.com/challenges/minimum-time-required/problem) | MinimumTimeRequired.cpp
+[Min Max Riddle](https://www.hackerrank.com/challenges/min-max-riddle/problem) | MinMaxRiddle.cpp
 [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) | ModifiedKaprekarNumbers.cpp
 [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | NonDivisibleSubset.cpp
 [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | PickingNumbers.cpp
@@ -135,10 +137,18 @@ Problem | Solution
 [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | UtopianTree.cpp
 [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | ViralAdvertising.cpp
 
+## algorithms/queues
+Problem | Solution
+------- | --------
+[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem) | CastleOnTheGrid.cpp
+
 ## algorithms/recursion
 Problem | Solution
 ------- | --------
-[Stone Division, Revisited](https://www.hackerrank.com/challenges/stone-division-2/problem) | 
+[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem) | CrosswordPuzzle.cpp
+[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | RecursiveDigitSum.cpp
+[Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem) | RecursionFibonacci.cpp
+[Stone Division, Revisited](https://www.hackerrank.com/challenges/stone-division-2/problem) | StoneDivisionRevisited.cpp
 [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) | ThePowerSum.cpp
 
 ## algorithms/search
@@ -178,6 +188,13 @@ Problem | Solution
 [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4/problem) | RunningTimeOfQuicksort.cpp
 [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | TheFullCountingSort.cpp
 
+## algorithms/stacks
+Problem | Solution
+------- | --------
+[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/submissions/code/98511790) | BalancedBrackets.cpp
+[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem) | LargestRectangle.cpp
+[Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem) | PoisonousPlants.cpp
+
 ## algorithms/strings
 Problem | Solution
 ------- | --------
@@ -186,6 +203,7 @@ Problem | Solution
 [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | BeautifulBinaryString.cpp
 [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | CaesarCipher.cpp
 [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | CamelCase.cpp
+[Common Child](https://www.hackerrank.com/challenges/common-child/problem) | CommonChild.cpp
 [Count Strings](https://www.hackerrank.com/challenges/count-strings/problem) | CountStrings.cpp
 [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health/problem) | DeterminingDNAHealth.cpp (timeouts for most cases)
 [Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | FunnyString.cpp
@@ -209,20 +227,29 @@ Problem | Solution
 ## algorithms/warmup
 Problem | Solution
 ------- | --------
+[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | AVeryBigSum.cpp
 [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | BirthdayCakeCandles.cpp
+[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | CompareTheTriplets.cpp
+[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem] | DiagonalDifference.cpp
 [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | MiniMaxSum.cpp
 [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | PlusMinus.cpp
+[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | SimpleArraySum.cpp
 [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | Staircase.cpp
 [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | TimeConversion.cpp
 
 ##cracking the coding interview
 Problem | Solution
 ------- | --------
+[Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem) | LinkedListCycleDetection.cpp
+[Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem) | QueuesTaleOfTwoStacks.cpp
+[Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem) | RecursionDavisStaircase.cpp
 [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem) | Primality.cpp
 
 ## artificial intelligence
 Problem | Solution
 ------- | --------
+[Bot saves princess](https://www.hackerrank.com/challenges/saveprincess) | BotSavesPrincess.cpp
+[Bot saves princess - 2](https://www.hackerrank.com/challenges/saveprincess2) | BotSavesPrincess2.cpp
 [BotClean](https://www.hackerrank.com/challenges/botclean) | BotClean.cpp
 
 ## 10 Days of Statistics
