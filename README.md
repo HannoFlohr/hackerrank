@@ -112,7 +112,7 @@ Problem | Solution
 [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | FormingAMagicSquare.cpp
 [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) | FrequencyQueries.cpp
 [Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem) | FriendCircleQueries.cpp
-[Grading Students](https://www.hackerrank.com/challenges/grading/problem | GradingStudents.cpp
+[Grading Students](https://www.hackerrank.com/challenges/grading/problem) | GradingStudents.cpp
 [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) | HalloweenSale.cpp
 [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | HappyLadybugs.cpp
 [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | JumpingClouds.cpp
@@ -140,7 +140,7 @@ Problem | Solution
 [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem) | ServiceLane.cpp
 [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | SequenceEquation.cpp
 [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | SherlockAndSquares.cpp
-[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | 
+[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | SockMerchant.cpp
 [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem) | StrangeCounter.cpp
 [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem) | TaumAndBday.cpp
 [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem) | TheBombermanGame.cpp
@@ -187,8 +187,8 @@ Problem | Solution
 [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) | ClosestNumbers.cpp
 [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) | FindTheMedian.cpp
 [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | FraudulentActivityNotifications.cpp
-[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem | InsertionSort1.cpp
-[Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem | InsertionSort2.cpp
+[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem) | InsertionSort1.cpp
+[Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem) | InsertionSort2.cpp
 [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort/problem) | InsertionSortAdvancedAnalysis.cpp
 [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem) | IntroTutorialChallenges.cpp
 [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem) | LilysHomework.cpp
@@ -239,7 +239,7 @@ Problem | Solution
 [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | AVeryBigSum.cpp
 [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | BirthdayCakeCandles.cpp
 [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | CompareTheTriplets.cpp
-[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem] | DiagonalDifference.cpp
+[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | DiagonalDifference.cpp
 [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | MiniMaxSum.cpp
 [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | PlusMinus.cpp
 [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | SimpleArraySum.cpp
@@ -308,7 +308,7 @@ Problem | Solution
 [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) | PreorderTraversal.cpp
 [Tree: Top View](https://www.hackerrank.com/challenges/tree-top-view/problem) | TreeTopView.cpp
 
-##cracking the coding interview
+## cracking the coding interview
 Problem | Solution
 ------- | --------
 [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | ArraysLeftRotation.cpp
@@ -342,6 +342,7 @@ Day | Problem | Solution
 
 ## c++
 most problems are just introduction to c++ concepts - only listing problems marked "Hard" and above, folder contains all (44) solutions
+
 Problem | Solution
 ------- | --------
 [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem) | AbstractClassesPolymorphism.cpp
