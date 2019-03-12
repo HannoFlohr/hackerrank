@@ -23,8 +23,12 @@ Problem | Solution
 Problem | Solution
 ------- | --------
 [Abbreviation](https://www.hackerrank.com/challenges/abbr/problem) | Abbreviation.cpp
+[Construct the Array](https://www.hackerrank.com/challenges/construct-the-array/problem) | ConstructTheArray.cpp
 [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers/problem) | DecibinaryNumbers.cpp
 [Equal](https://www.hackerrank.com/challenges/equal/problem) | Equal.cpp
+[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | FibonacciModified.cpp
+[Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division/problem) | KingdomDivision.cpp
+[Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost/problem) | SherlockAndCost.cpp
 [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem) | CoinChange.cpp
 
 ## algorithms/game theory
