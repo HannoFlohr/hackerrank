@@ -343,6 +343,19 @@ Day | Problem | Solution
 1 | [Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem) |
 1 | [Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem) |
 1 | [Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) |
+4 | [Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem) | Day4_BinomialDistribution1.cpp
+4 | [Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem) | Day4_BinomialDistribution2.cpp
+4 | [Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem) | Day4_GeometricDistribution1.cpp
+4 | [Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem) | Day4_GeometricDistribution2.cpp
+5 | [Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem) | Day5_PoissonDistribution1.cpp
+5 | [Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem) | Day5_PoissonDistribution2.cpp
+5 | [Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem) | Day5_NormalDistribution1.cpp
+5 | [Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem) | Day5_NormalDistribution2.cpp
+6 | [The Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem) | Day6_TheCentralLimitTheorem1.cpp
+6 | [The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem) | Day6_TheCentralLimitTheorem2.cpp
+6 | [The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem) | Day6_TheCentralLimitTheorem3.cpp
+7 | [Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem) | Day7_PearsonCorrelationCoefficient1.cpp
+7 | [Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem) | Day7_SpearmanRankCorrelationCoefficient.cpp
 
 ## c++
 most problems are just introduction to c++ concepts - only listing problems marked "Hard" and above, folder contains all (44) solutions
