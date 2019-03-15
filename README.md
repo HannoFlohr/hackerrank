@@ -28,8 +28,11 @@ Problem | Solution
 [Equal](https://www.hackerrank.com/challenges/equal/problem) | Equal.cpp
 [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | FibonacciModified.cpp
 [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division/problem) | KingdomDivision.cpp
+[Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem) | PrimeXOR.cpp
+[Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | SamAndSubstrings.cpp
 [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost/problem) | SherlockAndCost.cpp
 [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem) | CoinChange.cpp
+[The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/problem) | TheMaximumSubarray.cpp
 
 ## algorithms/game theory
 Problem | Solution
@@ -49,6 +52,8 @@ Problem | Solution
 ------- | --------
 [Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach/problem) | [BreadthFirstSearchShortestReach.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/BreadthFirstSearchShortestReach.cpp)
 [Even Tree](https://www.hackerrank.com/challenges/even-tree/problem) | [EvenTree.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/EvenTree.cpp)
+[Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) | JourneyToTheMoon.cpp
+[Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub/problem) | KruskalMST.cpp
 [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) | [RoadsAndLibraries.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/RoadsAndLibraries.cpp)
 
 ## algorithms/greedy
@@ -128,7 +133,7 @@ Problem | Solution
 [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | ManasaAndStones.cpp
 [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) | MatrixLayerRotation.cpp
 [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem) | 
-[Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor/problem) | MaximumXor.cpp (timeouts)
+[Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor/problem) | MaximumXor.cpp
 [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | MigratoryBirds.cpp
 [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem) | MinimumDistances.cpp
 [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) | MinimumSwaps.cpp
@@ -316,15 +321,20 @@ Problem | Solution
 Problem | Solution
 ------- | --------
 [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | ArraysLeftRotation.cpp
+[BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem) | BFS_ShortestReach.cpp
+[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem) | DFS_ConnectedCells.cpp
 [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) | HashTables_IceCreamParlor.cpp
 [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | HashTables_RansomNode.cpp
 [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem) | LinkedListCycleDetection.cpp
+[Making Candies](https://www.hackerrank.com/challenges/making-candies/problem) | MakingCandies.cpp
+[Matrix](https://www.hackerrank.com/challenges/matrix/problem) | Matrix.cpp 
 [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort/problem) | MergeSortCountingInversions.cpp
 [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem) | QueuesTaleOfTwoStacks.cpp
 [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem) | RecursionDavisStaircase.cpp
 [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | SortingBubbleSort.cpp
 [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) | SortingComparator.cpp
 [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) | StringsMakingAnagrams.cpp
+[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | SwapNodes.cpp
 [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem) | Primality.cpp
 [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem) | IsThisABinarySearchTree.cpp
 
@@ -356,6 +366,8 @@ Day | Problem | Solution
 6 | [The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem) | Day6_TheCentralLimitTheorem3.cpp
 7 | [Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem) | Day7_PearsonCorrelationCoefficient1.cpp
 7 | [Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem) | Day7_SpearmanRankCorrelationCoefficient.cpp
+8 | [Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem) | Day8_LeastSquareRegressionLine.cpp
+9 | [Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem) | Day9_MultipleLinearRegression.cpp
 
 ## c++
 most problems are just introduction to c++ concepts - only listing problems marked "Hard" and above, folder contains all (44) solutions

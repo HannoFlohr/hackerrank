@@ -2,98 +2,79 @@
 
 using namespace std;
 
-vector<string> split_string(string);
+class TrieNode {
+public:
+	vector<TrieNode*> children = vector<TrieNode*>(2, NULL);
+	void add(int v, int index) {
+		int bitPos = 31 - index;
+		if (bitPos < 0) return;
+
+		int power = 1 << bitPos;
+		int bit = v / power;
+		int remainder = v % power;
+
+		if (!children[bit])
+			children[bit] = new TrieNode();
+		children[bit]->add(remainder, index + 1);
+	}
+};
+
+class BitTrie {
+public:
+	TrieNode *root = new TrieNode();
+	void add(int v) {
+		root->add(v, 0);
+	}
+
+	int solve(int v) {
+		TrieNode* cur = root;
+		int xorV = 0, bitPos, power, bit, remainder = v;
+		for (int i = 0; i < 32; i++) {
+			bitPos = 31 - i;
+			power = 1 << bitPos;
+			bit = remainder / power;
+			remainder = remainder % power;
+
+			if (cur->children[bit ^ 1]) {
+				xorV += power;
+				cur = cur->children[bit ^ 1];
+			}
+			else
+				cur = cur->children[bit];
+		}
+		return xorV;
+	}
+};
 
 vector<int> maxXor(vector<int> arr, vector<int> queries) {
-    vector<int> results(0);
-    int maxi;
-    for(auto q:queries) {
-        maxi=-1;
-        for(auto a : arr) {
-            maxi = max(maxi, (q^a));
-        }
-        results.push_back(maxi);
-    }
-    return results;
+	vector<int> results(0);
+	BitTrie bt;
+	for (auto a : arr)
+		bt.add(a);
+	for (auto q : queries)
+		results.push_back(bt.solve(q));
+
+	return results;
 }
 
 int main()
 {
-    ofstream fout(getenv("OUTPUT_PATH"));
+	int n, m;
+	cin >> n;
 
-    int n;
-    cin >> n;
-    cin.ignore(numeric_limits<streamsize>::max(), '\n');
+	vector<int> arr(n);
+	for (int i = 0; i < n; i++)
+		cin >> arr[i];
 
-    string arr_temp_temp;
-    getline(cin, arr_temp_temp);
+	cin >> m;
 
-    vector<string> arr_temp = split_string(arr_temp_temp);
+	vector<int> queries(m);
+	for (int i = 0; i < m; i++)
+		cin >> queries[i];
 
-    vector<int> arr(n);
+	vector<int> result = maxXor(arr, queries);
+	for (int i = 0; i < result.size(); i++)
+		cout << result[i] << endl;
 
-    for (int i = 0; i < n; i++) {
-        int arr_item = stoi(arr_temp[i]);
-
-        arr[i] = arr_item;
-    }
-
-    int m;
-    cin >> m;
-    cin.ignore(numeric_limits<streamsize>::max(), '\n');
-
-    vector<int> queries(m);
-
-    for (int i = 0; i < m; i++) {
-        int queries_item;
-        cin >> queries_item;
-        cin.ignore(numeric_limits<streamsize>::max(), '\n');
-
-        queries[i] = queries_item;
-    }
-
-    vector<int> result = maxXor(arr, queries);
-
-    for (int i = 0; i < result.size(); i++) {
-        fout << result[i];
-
-        if (i != result.size() - 1) {
-            fout << "\n";
-        }
-    }
-
-    fout << "\n";
-
-    fout.close();
-
-    return 0;
-}
-
-vector<string> split_string(string input_string) {
-    string::iterator new_end = unique(input_string.begin(), input_string.end(), [] (const char &x, const char &y) {
-        return x == y and x == ' ';
-    });
-
-    input_string.erase(new_end, input_string.end());
-
-    while (input_string[input_string.length() - 1] == ' ') {
-        input_string.pop_back();
-    }
-
-    vector<string> splits;
-    char delimiter = ' ';
-
-    size_t i = 0;
-    size_t pos = input_string.find(delimiter);
-
-    while (pos != string::npos) {
-        splits.push_back(input_string.substr(i, pos - i));
-
-        i = pos + 1;
-        pos = input_string.find(delimiter, i);
-    }
-
-    splits.push_back(input_string.substr(i, min(pos, input_string.length()) - i + 1));
-
-    return splits;
+	return 0;
 }
