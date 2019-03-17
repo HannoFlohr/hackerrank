@@ -54,7 +54,9 @@ Problem | Solution
 [Even Tree](https://www.hackerrank.com/challenges/even-tree/problem) | [EvenTree.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/EvenTree.cpp)
 [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) | JourneyToTheMoon.cpp
 [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub/problem) | KruskalMST.cpp
+[Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub/problem) | PrimsMST.cpp
 [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) | [RoadsAndLibraries.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/RoadsAndLibraries.cpp)
+[Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up/problem) | SnakesAndLaddersQuickest.cpp
 
 ## algorithms/greedy
 Problem | Solution
