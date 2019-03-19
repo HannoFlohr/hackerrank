@@ -5,6 +5,8 @@ coded in c++/c++14
 Problem | Solution
 ------- | --------
 [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem) | FlippingBits.cpp
+[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem) | [LonelyInteger.cpp]
+[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem) | [MaximizingXor.cpp]
 
 ## algorithms/constructive algorithms
 Problem | Solution
@@ -17,6 +19,7 @@ Problem | Solution
 Problem | Solution
 ------- | --------
 [Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) | PrimeDates.cpp
+[XOR Strings](https://www.hackerrank.com/challenges/strings-xor/problem] | [XorStrings.cpp]
 [Zig Zag Sequence](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) | ZigZagSequence.cpp
 
 ## algorithms/dynamic programming
@@ -37,6 +40,7 @@ Problem | Solution
 ## algorithms/game theory
 Problem | Solution
 ------- | --------
+[A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem) | [AChessboardGame.cpp]
 [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem) | GameOfStones.cpp
 [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem) | NimIntro.cpp 
 [Misère Nim](https://www.hackerrank.com/challenges/misere-nim-1/problem) | MisereNim.cpp
@@ -51,12 +55,18 @@ Problem | Solution
 Problem | Solution
 ------- | --------
 [Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach/problem) | [BreadthFirstSearchShortestReach.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/BreadthFirstSearchShortestReach.cpp)
+[Clique](https://www.hackerrank.com/challenges/clique/problem) | Clique.cpp
+[Crab Graphs](https://www.hackerrank.com/challenges/crab-graphs/problem) | [CrabGraphsFordFulkerson.cpp]
+[Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach/problem) | DijkstraShortestReach.cpp
 [Even Tree](https://www.hackerrank.com/challenges/even-tree/problem) | [EvenTree.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/EvenTree.cpp)
+[Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem] | [FloydShortestReach.cpp]
+{Jack goes to Rapture](https://www.hackerrank.com/challenges/jack-goes-to-rapture/problem) | [JackGoesToRapture.cpp]
 [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) | JourneyToTheMoon.cpp
 [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub/problem) | KruskalMST.cpp
 [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub/problem) | PrimsMST.cpp
 [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) | [RoadsAndLibraries.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/RoadsAndLibraries.cpp)
 [Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up/problem) | SnakesAndLaddersQuickest.cpp
+[The Story of a Tree](https://www.hackerrank.com/challenges/the-story-of-a-tree/problem) | [StoryOfATreeDFS.cpp]
 
 ## algorithms/greedy
 Problem | Solution
