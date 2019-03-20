@@ -4,21 +4,26 @@ coded in c++/c++14
 ## algorithms/bit manipulation
 Problem | Solution
 ------- | --------
-[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem) | FlippingBits.cpp
+[Counter game](https://www.hackerrank.com/challenges/counter-game/problem) | [CounterGame.cpp]()
+[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem) | [FlippingBits.cpp]
 [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem) | [LonelyInteger.cpp]
 [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem) | [MaximizingXor.cpp]
+[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem) | [SumVsXor.cpp]
 
 ## algorithms/constructive algorithms
 Problem | Solution
 ------- | --------
 [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) | [FlippingTheMatrix.cpp]()
 [Gaming Array](https://www.hackerrank.com/challenges/an-interesting-game-1/problem) | [GamingArray.cpp]() 
+[Lena Sort](https://www.hackerrank.com/challenges/lena-sort/problem?isFullScreen=false) | [LenaSort.cpp]()
 [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | NewYearChaos.cpp
 
 ## algorithms/debugging
 Problem | Solution
 ------- | --------
+[Minimum Operations](https://www.hackerrank.com/challenges/minimum-operations/copy-from/102529845) | [MinimumOperations.cpp]()
 [Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) | PrimeDates.cpp
+[Smart Number](https://www.hackerrank.com/challenges/smart-number/problem) | [SmartNumber.cpp]
 [XOR Strings](https://www.hackerrank.com/challenges/strings-xor/problem] | [XorStrings.cpp]
 [Zig Zag Sequence](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) | ZigZagSequence.cpp
 
@@ -184,7 +189,8 @@ Problem | Solution
 ## algorithms/search
 Problem | Solution
 ------- | --------
-[Gena Playing Hanoi](https://www.hackerrank.com/challenges/gena/problem) | 
+[Beautiful Quadruples](https://www.hackerrank.com/challenges/xor-quadruples/copy-from/102499027) | [BeautifulQuadruples.cpp]
+[Gena Playing Hanoi](https://www.hackerrank.com/challenges/gena/problem) | [GenaPlayingHanoi.cpp]
 [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro/problem) | GridlandMetro.cpp
 [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) | HackerlandRadioTransmitters.cpp
 [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem) | IceCreamParlor.cpp
