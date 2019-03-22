@@ -4,11 +4,15 @@ coded in c++/c++14
 ## algorithms/bit manipulation
 Problem | Solution
 ------- | --------
+[Cipher](https://www.hackerrank.com/challenges/cipher/problem) | [Cipher.cpp]()
 [Counter game](https://www.hackerrank.com/challenges/counter-game/problem) | [CounterGame.cpp]()
-[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem) | [FlippingBits.cpp]
-[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem) | [LonelyInteger.cpp]
-[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem) | [MaximizingXor.cpp]
-[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem) | [SumVsXor.cpp]
+[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem) | [FlippingBits.cpp]()
+[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem) | [LonelyInteger.cpp]()
+[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem) | [MaximizingXor.cpp]()
+[Sansa and XOR](https://www.hackerrank.com/challenges/sansa-and-xor/problem) | [SansaAndXor.cpp]()
+[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem) | [SumVsXor.cpp]()
+[The Great XOR](https://www.hackerrank.com/challenges/the-great-xor/problem) | [TheGreatXor.cpp]()
+[Xor-sequence](https://www.hackerrank.com/challenges/xor-se/problem) | [XorSequence.cpp]()
 
 ## algorithms/constructive algorithms
 Problem | Solution
