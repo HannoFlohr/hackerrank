@@ -4,6 +4,7 @@ coded in c++/c++14
 ## algorithms/bit manipulation
 Problem | Solution
 ------- | --------
+[AND Product](https://www.hackerrank.com/challenges/and-product/problem) | [AndProduct.cpp]()
 [Cipher](https://www.hackerrank.com/challenges/cipher/problem) | [Cipher.cpp]()
 [Counter game](https://www.hackerrank.com/challenges/counter-game/problem) | [CounterGame.cpp]()
 [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem) | [FlippingBits.cpp]()
@@ -13,6 +14,7 @@ Problem | Solution
 [Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem) | [SumVsXor.cpp]()
 [The Great XOR](https://www.hackerrank.com/challenges/the-great-xor/problem) | [TheGreatXor.cpp]()
 [Xor-sequence](https://www.hackerrank.com/challenges/xor-se/problem) | [XorSequence.cpp]()
+[Xoring Ninja](https://www.hackerrank.com/challenges/xoring-ninja/problem) | [XoringNinja.cpp]()
 
 ## algorithms/constructive algorithms
 Problem | Solution
@@ -39,6 +41,7 @@ Problem | Solution
 [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers/problem) | DecibinaryNumbers.cpp
 [Equal](https://www.hackerrank.com/challenges/equal/problem) | Equal.cpp
 [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | FibonacciModified.cpp
+[HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem) | [HackerrankCity.cpp]()
 [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division/problem) | KingdomDivision.cpp
 [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem) | PrimeXOR.cpp
 [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | SamAndSubstrings.cpp
@@ -69,7 +72,8 @@ Problem | Solution
 [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach/problem) | DijkstraShortestReach.cpp
 [Even Tree](https://www.hackerrank.com/challenges/even-tree/problem) | [EvenTree.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/EvenTree.cpp)
 [Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem] | [FloydShortestReach.cpp]
-{Jack goes to Rapture](https://www.hackerrank.com/challenges/jack-goes-to-rapture/problem) | [JackGoesToRapture.cpp]
+[Jack goes to Rapture](https://www.hackerrank.com/challenges/jack-goes-to-rapture/problem) | [JackGoesToRapture.cpp]
+[Jeanie's Route](https://www.hackerrank.com/challenges/jeanies-route/problem) | [JeaniesRoute.cpp]()
 [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) | JourneyToTheMoon.cpp
 [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub/problem) | KruskalMST.cpp
 [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub/problem) | PrimsMST.cpp
@@ -185,6 +189,7 @@ Problem | Solution
 Problem | Solution
 ------- | --------
 [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem) | CrosswordPuzzle.cpp
+[K Factorization](https://www.hackerrank.com/challenges/k-factorization/problem) | [KFactorization.cpp]()
 [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | RecursiveDigitSum.cpp
 [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem) | RecursionFibonacci.cpp
 [Stone Division, Revisited](https://www.hackerrank.com/challenges/stone-division-2/problem) | StoneDivisionRevisited.cpp
