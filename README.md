@@ -372,6 +372,22 @@ Problem | Solution
 [Bot saves princess - 2](https://www.hackerrank.com/challenges/saveprincess2) | BotSavesPrincess2.cpp
 [BotClean](https://www.hackerrank.com/challenges/botclean) | BotClean.cpp
 
+## Project Euler
+[#1: Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | [euler001.cpp]()
+[#2: Even Fibonacci numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | [euler002.cpp]()
+[#3: Largest prime factor](https://www.hackerrank.com/contests/projecteuler/challenges/euler003) | [euler003.cpp]()
+[#4: Largest palindrome product](https://www.hackerrank.com/contests/projecteuler/challenges/euler004] | [euler004.cpp]()
+[#5: Smallest multiple](https://www.hackerrank.com/contests/projecteuler/challenges/euler005) | [euler005.cpp]()
+[#6: Sum square difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006) | [euler006.cpp]()
+[#7: 10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007) | [euler007.cpp]()
+[#8: Largest product in a series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008) | [euler008.cpp]()
+[#9: Special Pythagorean triplet](https://www.hackerrank.com/contests/projecteuler/challenges/euler009) | [euler009.cpp]()
+[#10: Summation of primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler010) | [euler010.cpp]()
+[#11: Largest product in a grid](https://www.hackerrank.com/contests/projecteuler/challenges/euler011) | [euler011.cpp]()
+[#12: Highly divisible triangular number](https://www.hackerrank.com/contests/projecteuler/challenges/euler012) | [euler012.cpp]()
+[#13: Large sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler013) | [euler013.cpp]()
+[#14: Longest Collatz sequence](https://www.hackerrank.com/contests/projecteuler/challenges/euler014) | [euler014.cpp]()
+
 ## 10 Days of Statistics
 Day | Problem | Solution
 --- | ------- | --------
