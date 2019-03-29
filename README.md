@@ -19,10 +19,12 @@ Problem | Solution
 ## algorithms/constructive algorithms
 Problem | Solution
 ------- | --------
+[Bonetrousle](https://www.hackerrank.com/challenges/bonetrousle/problem) | [Bonetrousle.cpp}()
 [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) | [FlippingTheMatrix.cpp]()
 [Gaming Array](https://www.hackerrank.com/challenges/an-interesting-game-1/problem) | [GamingArray.cpp]() 
 [Lena Sort](https://www.hackerrank.com/challenges/lena-sort/problem?isFullScreen=false) | [LenaSort.cpp]()
 [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | NewYearChaos.cpp
+[Yet Another KMP Problem](https://www.hackerrank.com/challenges/kmp-problem/problem) | [YetAnotherKMPProblem.cpp]()
 
 ## algorithms/debugging
 Problem | Solution
@@ -46,8 +48,10 @@ Problem | Solution
 [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem) | PrimeXOR.cpp
 [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | SamAndSubstrings.cpp
 [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost/problem) | SherlockAndCost.cpp
+[Summing Pieces](https://www.hackerrank.com/challenges/summing-pieces/problem) | [SummingPieces.cpp]()
 [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem) | CoinChange.cpp
 [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/problem) | TheMaximumSubarray.cpp
+[Xor and Sum](https://www.hackerrank.com/challenges/xor-and-sum/problem) | [XorAndSum.cpp]()
 
 ## algorithms/game theory
 Problem | Solution
