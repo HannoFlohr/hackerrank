@@ -391,6 +391,13 @@ Problem | Solution
 [#12: Highly divisible triangular number](https://www.hackerrank.com/contests/projecteuler/challenges/euler012) | [euler012.cpp]()
 [#13: Large sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler013) | [euler013.cpp]()
 [#14: Longest Collatz sequence](https://www.hackerrank.com/contests/projecteuler/challenges/euler014) | [euler014.cpp]()
+[#15: Lattice paths](https://www.hackerrank.com/contests/projecteuler/challenges/euler015) | [euler015.cpp]()
+[#16: Power digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler016) | [euler016.cpp]()
+[#17: Number to Words](https://www.hackerrank.com/contests/projecteuler/challenges/euler017) | [euler017.cpp]()
+[#18: Maximum path sum I](https://www.hackerrank.com/contests/projecteuler/challenges/euler018) | [euler018.cpp]()
+[#19: Counting Sundays](https://www.hackerrank.com/contests/projecteuler/challenges/euler019) | [euler019.cpp]()
+[#20: Factorial digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler020) | [euler020.cpp]()
+[#21: Amicable numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler021) | [euler021.cpp]()
 
 ## 10 Days of Statistics
 Day | Problem | Solution
