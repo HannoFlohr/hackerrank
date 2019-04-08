@@ -398,6 +398,14 @@ Problem | Solution
 [#19: Counting Sundays](https://www.hackerrank.com/contests/projecteuler/challenges/euler019) | [euler019.cpp]()
 [#20: Factorial digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler020) | [euler020.cpp]()
 [#21: Amicable numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler021) | [euler021.cpp]()
+[#22: Names scores](https://www.hackerrank.com/contests/projecteuler/challenges/euler022) | [euler022.cpp]()
+[#23: Non-abundant sums](https://www.hackerrank.com/contests/projecteuler/challenges/euler023) | [euler023.cpp]()
+[#24: Lexicographic permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler024) | [euler024.cpp]()
+[#25: N-digit Fibonacci number](https://www.hackerrank.com/contests/projecteuler/challenges/euler025) | [euler025.cpp]()
+[#26: Reciprocal cycles](https://www.hackerrank.com/contests/projecteuler/challenges/euler026) | [euler026.cpp]()
+[#27: Quadratic primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler027) | [euler027.cpp]()
+[#28: Number spiral diagonals](https://www.hackerrank.com/contests/projecteuler/challenges/euler028) | [euler028.cpp]()
+[#29: Distinct powers](https://www.hackerrank.com/contests/projecteuler/challenges/euler029) | [euler029.cpp]()
 
 ## 10 Days of Statistics
 Day | Problem | Solution
