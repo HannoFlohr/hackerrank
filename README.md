@@ -376,7 +376,7 @@ Problem | Solution
 [Bot saves princess - 2](https://www.hackerrank.com/challenges/saveprincess2) | BotSavesPrincess2.cpp
 [BotClean](https://www.hackerrank.com/challenges/botclean) | BotClean.cpp
 
-## Project Euler
+## ProjectEuler+
 [#1: Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | [euler001.cpp]()
 [#2: Even Fibonacci numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | [euler002.cpp]()
 [#3: Largest prime factor](https://www.hackerrank.com/contests/projecteuler/challenges/euler003) | [euler003.cpp]()
@@ -406,6 +406,19 @@ Problem | Solution
 [#27: Quadratic primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler027) | [euler027.cpp]()
 [#28: Number spiral diagonals](https://www.hackerrank.com/contests/projecteuler/challenges/euler028) | [euler028.cpp]()
 [#29: Distinct powers](https://www.hackerrank.com/contests/projecteuler/challenges/euler029) | [euler029.cpp]()
+[#30: Digit Nth powers](https://www.hackerrank.com/contests/projecteuler/challenges/euler030) | [euler030.cpp]()
+[#31: Coin sums](https://www.hackerrank.com/contests/projecteuler/challenges/euler031) | [euler031.cpp]()
+[#32: Pandigital products](https://www.hackerrank.com/contests/projecteuler/challenges/euler032) | [euler032.cpp]()
+[#33: Digit canceling fractions](https://www.hackerrank.com/contests/projecteuler/challenges/euler033) | [euler033.cpp]()
+[#34: Digit factorials](https://www.hackerrank.com/contests/projecteuler/challenges/euler034) | [euler034.cpp]()
+[#35: Circular primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler035) | [euler035.cpp]()
+[#36: Double-base palindromes](https://www.hackerrank.com/contests/projecteuler/challenges/euler036) | [euler036.cpp]()
+[#37: Truncatable primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler037) | [euler037.cpp]()
+[#38: Pandigital multiples](https://www.hackerrank.com/contests/projecteuler/challenges/euler038) | [euler038.cpp]()
+[#39: Integer right triangles](https://www.hackerrank.com/contests/projecteuler/challenges/euler039) | [euler039.cpp]()
+[#40: Champernowne's constant](https://www.hackerrank.com/contests/projecteuler/challenges/euler040) | [euler040.cpp]()
+[#41: Pandigital prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler041) | [euler041.cpp]()
+[#42: Coded triangle numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler042) | [euler042.cpp]()
 
 ## 10 Days of Statistics
 Day | Problem | Solution
