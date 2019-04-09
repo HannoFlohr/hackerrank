@@ -19,7 +19,7 @@ Problem | Solution
 ## algorithms/constructive algorithms
 Problem | Solution
 ------- | --------
-[Bonetrousle](https://www.hackerrank.com/challenges/bonetrousle/problem) | [Bonetrousle.cpp}()
+[Bonetrousle](https://www.hackerrank.com/challenges/bonetrousle/problem) | [Bonetrousle.cpp]()
 [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) | [FlippingTheMatrix.cpp]()
 [Gaming Array](https://www.hackerrank.com/challenges/an-interesting-game-1/problem) | [GamingArray.cpp]() 
 [Lena Sort](https://www.hackerrank.com/challenges/lena-sort/problem?isFullScreen=false) | [LenaSort.cpp]()
@@ -75,7 +75,7 @@ Problem | Solution
 [Crab Graphs](https://www.hackerrank.com/challenges/crab-graphs/problem) | [CrabGraphsFordFulkerson.cpp]
 [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach/problem) | DijkstraShortestReach.cpp
 [Even Tree](https://www.hackerrank.com/challenges/even-tree/problem) | [EvenTree.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/EvenTree.cpp)
-[Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem] | [FloydShortestReach.cpp]
+[Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem) | [FloydShortestReach.cpp]
 [Jack goes to Rapture](https://www.hackerrank.com/challenges/jack-goes-to-rapture/problem) | [JackGoesToRapture.cpp]
 [Jeanie's Route](https://www.hackerrank.com/challenges/jeanies-route/problem) | [JeaniesRoute.cpp]()
 [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) | JourneyToTheMoon.cpp
@@ -377,10 +377,12 @@ Problem | Solution
 [BotClean](https://www.hackerrank.com/challenges/botclean) | BotClean.cpp
 
 ## ProjectEuler+
+Problem | Solution
+------- | --------
 [#1: Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | [euler001.cpp]()
 [#2: Even Fibonacci numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | [euler002.cpp]()
 [#3: Largest prime factor](https://www.hackerrank.com/contests/projecteuler/challenges/euler003) | [euler003.cpp]()
-[#4: Largest palindrome product](https://www.hackerrank.com/contests/projecteuler/challenges/euler004] | [euler004.cpp]()
+[#4: Largest palindrome product](https://www.hackerrank.com/contests/projecteuler/challenges/euler004) | [euler004.cpp]()
 [#5: Smallest multiple](https://www.hackerrank.com/contests/projecteuler/challenges/euler005) | [euler005.cpp]()
 [#6: Sum square difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006) | [euler006.cpp]()
 [#7: 10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007) | [euler007.cpp]()
