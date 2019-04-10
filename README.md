@@ -19,9 +19,12 @@ Problem | Solution
 ## algorithms/constructive algorithms
 Problem | Solution
 ------- | --------
+[Array Construction](https://www.hackerrank.com/challenges/array-construction/problem) | [ArrayConstruction.cpp]()
+[Beautiful 3 Set](https://www.hackerrank.com/challenges/beautiful-3-set/problem) | [Beautiful3Set.cpp]()
 [Bonetrousle](https://www.hackerrank.com/challenges/bonetrousle/problem) | [Bonetrousle.cpp]()
 [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) | [FlippingTheMatrix.cpp]()
 [Gaming Array](https://www.hackerrank.com/challenges/an-interesting-game-1/problem) | [GamingArray.cpp]() 
+[Inverse RMQ](https://www.hackerrank.com/challenges/inverse-rmq/problem) | [InverseRMQ.cpp]()
 [Lena Sort](https://www.hackerrank.com/challenges/lena-sort/problem?isFullScreen=false) | [LenaSort.cpp]()
 [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | NewYearChaos.cpp
 [Yet Another KMP Problem](https://www.hackerrank.com/challenges/kmp-problem/problem) | [YetAnotherKMPProblem.cpp]()
@@ -32,7 +35,7 @@ Problem | Solution
 [Minimum Operations](https://www.hackerrank.com/challenges/minimum-operations/copy-from/102529845) | [MinimumOperations.cpp]()
 [Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) | PrimeDates.cpp
 [Smart Number](https://www.hackerrank.com/challenges/smart-number/problem) | [SmartNumber.cpp]
-[XOR Strings](https://www.hackerrank.com/challenges/strings-xor/problem] | [XorStrings.cpp]
+[XOR Strings](https://www.hackerrank.com/challenges/strings-xor/problem) | [XorStrings.cpp]
 [Zig Zag Sequence](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) | ZigZagSequence.cpp
 
 ## algorithms/dynamic programming
@@ -45,6 +48,7 @@ Problem | Solution
 [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | FibonacciModified.cpp
 [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem) | [HackerrankCity.cpp]()
 [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division/problem) | KingdomDivision.cpp
+[Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks/problem) | [LegoBlocks.cpp]()
 [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem) | PrimeXOR.cpp
 [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | SamAndSubstrings.cpp
 [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost/problem) | SherlockAndCost.cpp
@@ -193,6 +197,7 @@ Problem | Solution
 Problem | Solution
 ------- | --------
 [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem) | CrosswordPuzzle.cpp
+[Hexagonal Grid](https://www.hackerrank.com/challenges/hexagonal-grid/problem) | [HexagonalGrid.cpp]()
 [K Factorization](https://www.hackerrank.com/challenges/k-factorization/problem) | [KFactorization.cpp]()
 [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | RecursiveDigitSum.cpp
 [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem) | RecursionFibonacci.cpp
