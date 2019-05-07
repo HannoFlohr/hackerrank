@@ -1,5 +1,5 @@
 # Solutions for hackerrank.com problems
-coded in c++/c++14
+coded in C++/C++14
 
 ## algorithms/bit manipulation
 Problem | Solution
