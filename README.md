@@ -49,9 +49,13 @@ Problem | Solution
 [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem) | [HackerrankCity.cpp]()
 [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division/problem) | KingdomDivision.cpp
 [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks/problem) | [LegoBlocks.cpp]()
+[Mandragora Forest](https://www.hackerrank.com/challenges/mandragora/problem) | [MandragoraForest.cpp]()
 [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem) | PrimeXOR.cpp
+[Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back/problem) | [RedJohnIsBack.cpp]()
 [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | SamAndSubstrings.cpp
 [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost/problem) | SherlockAndCost.cpp
+[Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem) | [StockMaximize.cpp]()
+[Substring Diff](https://www.hackerrank.com/challenges/substring-diff/problem) | [SubstringDiff.cpp]()
 [Summing Pieces](https://www.hackerrank.com/challenges/summing-pieces/problem) | [SummingPieces.cpp]()
 [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem) | CoinChange.cpp
 [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/problem) | TheMaximumSubarray.cpp
@@ -426,6 +430,9 @@ Problem | Solution
 [#40: Champernowne's constant](https://www.hackerrank.com/contests/projecteuler/challenges/euler040) | [euler040.cpp]()
 [#41: Pandigital prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler041) | [euler041.cpp]()
 [#42: Coded triangle numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler042) | [euler042.cpp]()
+[#43: Sub-string divisibility](https://www.hackerrank.com/contests/projecteuler/challenges/euler043) | [euler043.cpp]()
+[#44: Pentagon numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler044) | [euler044.cpp]()
+[#45: Triangular, pentagonal, and hexagonal](https://www.hackerrank.com/contests/projecteuler/challenges/euler045) | [euler045.cpp]()
 
 ## 10 Days of Statistics
 Day | Problem | Solution
