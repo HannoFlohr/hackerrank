@@ -4,22 +4,22 @@ coded in C++/C++14
 ## algorithms/bit manipulation
 Problem | Solution
 ------- | --------
-[AND Product](https://www.hackerrank.com/challenges/and-product/problem) | [AndProduct.cpp]()
-[Cipher](https://www.hackerrank.com/challenges/cipher/problem) | [Cipher.cpp]()
-[Counter game](https://www.hackerrank.com/challenges/counter-game/problem) | [CounterGame.cpp]()
-[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem) | [FlippingBits.cpp]()
-[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem) | [LonelyInteger.cpp]()
-[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem) | [MaximizingXor.cpp]()
-[Sansa and XOR](https://www.hackerrank.com/challenges/sansa-and-xor/problem) | [SansaAndXor.cpp]()
-[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem) | [SumVsXor.cpp]()
-[The Great XOR](https://www.hackerrank.com/challenges/the-great-xor/problem) | [TheGreatXor.cpp]()
-[Xor-sequence](https://www.hackerrank.com/challenges/xor-se/problem) | [XorSequence.cpp]()
-[Xoring Ninja](https://www.hackerrank.com/challenges/xoring-ninja/problem) | [XoringNinja.cpp]()
+[AND Product](https://www.hackerrank.com/challenges/and-product/problem) | [AndProduct.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/AndProduct.cpp)
+[Cipher](https://www.hackerrank.com/challenges/cipher/problem) | [Cipher.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/Cipher.cpp)
+[Counter game](https://www.hackerrank.com/challenges/counter-game/problem) | [CounterGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/CounterGame.cpp)
+[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem) | [FlippingBits.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/FlippingBits.cpp)
+[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem) | [LonelyInteger.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/LonelyInteger.cpp)
+[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem) | [MaximizingXor.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/MaximizingXor.cpp)
+[Sansa and XOR](https://www.hackerrank.com/challenges/sansa-and-xor/problem) | [SansaAndXor.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/SansaAndXor.cpp)
+[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem) | [SumVsXor.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/SumVsXor.cpp)
+[The Great XOR](https://www.hackerrank.com/challenges/the-great-xor/problem) | [TheGreatXor.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/TheGreatXor.cpp)
+[Xor-sequence](https://www.hackerrank.com/challenges/xor-se/problem) | [XorSequence.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/XorSequence.cpp)
+[Xoring Ninja](https://www.hackerrank.com/challenges/xoring-ninja/problem) | [XoringNinja.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/XoringNinja.cpp)
 
 ## algorithms/constructive algorithms
 Problem | Solution
 ------- | --------
-[Array Construction](https://www.hackerrank.com/challenges/array-construction/problem) | [ArrayConstruction.cpp]()
+[Array Construction](https://www.hackerrank.com/challenges/array-construction/problem) | [ArrayConstruction.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/constructive%20algorithms/ArrayConstruction.cpp)
 [Beautiful 3 Set](https://www.hackerrank.com/challenges/beautiful-3-set/problem) | [Beautiful3Set.cpp]()
 [Bonetrousle](https://www.hackerrank.com/challenges/bonetrousle/problem) | [Bonetrousle.cpp]()
 [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) | [FlippingTheMatrix.cpp]()
@@ -32,11 +32,11 @@ Problem | Solution
 ## algorithms/debugging
 Problem | Solution
 ------- | --------
-[Minimum Operations](https://www.hackerrank.com/challenges/minimum-operations/copy-from/102529845) | [MinimumOperations.cpp]()
-[Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) | PrimeDates.cpp
-[Smart Number](https://www.hackerrank.com/challenges/smart-number/problem) | [SmartNumber.cpp]
-[XOR Strings](https://www.hackerrank.com/challenges/strings-xor/problem) | [XorStrings.cpp]
-[Zig Zag Sequence](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) | ZigZagSequence.cpp
+[Minimum Operations](https://www.hackerrank.com/challenges/minimum-operations/copy-from/102529845) | [MinimumOperations.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/debugging/MinimumOperations.cpp)
+[Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) | [PrimeDates.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/debugging/PrimeDates.cpp)
+[Smart Number](https://www.hackerrank.com/challenges/smart-number/problem) | [SmartNumber.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/debugging/SmartNumber.cpp)
+[XOR Strings](https://www.hackerrank.com/challenges/strings-xor/problem) | [XorStrings.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/debugging/XorStrings.cpp)
+[Zig Zag Sequence](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) | [ZigZagSequence.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/debugging/ZigZagSequence.cpp)
 
 ## algorithms/dynamic programming
 Problem | Solution
@@ -48,8 +48,10 @@ Problem | Solution
 [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | FibonacciModified.cpp
 [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem) | [HackerrankCity.cpp]()
 [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division/problem) | KingdomDivision.cpp
+[Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) | [Knapsack.cpp]()
 [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks/problem) | [LegoBlocks.cpp]()
 [Mandragora Forest](https://www.hackerrank.com/challenges/mandragora/problem) | [MandragoraForest.cpp]()
+[Play with words](https://www.hackerrank.com/challenges/strplay/problem) | [PlayWithWords.cpp]()
 [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem) | PrimeXOR.cpp
 [Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back/problem) | [RedJohnIsBack.cpp]()
 [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | SamAndSubstrings.cpp
