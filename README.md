@@ -26,7 +26,7 @@ Problem | Solution
 [Gaming Array](https://www.hackerrank.com/challenges/an-interesting-game-1/problem) | [GamingArray.cpp]() 
 [Inverse RMQ](https://www.hackerrank.com/challenges/inverse-rmq/problem) | [InverseRMQ.cpp]()
 [Lena Sort](https://www.hackerrank.com/challenges/lena-sort/problem?isFullScreen=false) | [LenaSort.cpp]()
-[New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | NewYearChaos.cpp
+[New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [NewYearChaos.cpp]()
 [Yet Another KMP Problem](https://www.hackerrank.com/challenges/kmp-problem/problem) | [YetAnotherKMPProblem.cpp]()
 
 ## algorithms/debugging
@@ -42,6 +42,7 @@ Problem | Solution
 Problem | Solution
 ------- | --------
 [Abbreviation](https://www.hackerrank.com/challenges/abbr/problem) | Abbreviation.cpp
+[Bricks Game](https://www.hackerrank.com/challenges/play-game/problem) | [BricksGame.cpp]()
 [Construct the Array](https://www.hackerrank.com/challenges/construct-the-array/problem) | ConstructTheArray.cpp
 [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers/problem) | DecibinaryNumbers.cpp
 [Equal](https://www.hackerrank.com/challenges/equal/problem) | Equal.cpp
@@ -57,6 +58,7 @@ Problem | Solution
 [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | SamAndSubstrings.cpp
 [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost/problem) | SherlockAndCost.cpp
 [Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem) | [StockMaximize.cpp]()
+[Swap Permutation](https://www.hackerrank.com/challenges/swappermutation/problem) | [SwapPermutations.cpp]()
 [Substring Diff](https://www.hackerrank.com/challenges/substring-diff/problem) | [SubstringDiff.cpp]()
 [Summing Pieces](https://www.hackerrank.com/challenges/summing-pieces/problem) | [SummingPieces.cpp]()
 [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem) | CoinChange.cpp
@@ -66,7 +68,7 @@ Problem | Solution
 ## algorithms/game theory
 Problem | Solution
 ------- | --------
-[A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem) | [AChessboardGame.cpp]
+[A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem) | [AChessboardGame.cpp]()
 [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem) | GameOfStones.cpp
 [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem) | NimIntro.cpp 
 [Misère Nim](https://www.hackerrank.com/challenges/misere-nim-1/problem) | MisereNim.cpp
@@ -92,6 +94,7 @@ Problem | Solution
 [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub/problem) | KruskalMST.cpp
 [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub/problem) | PrimsMST.cpp
 [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) | [RoadsAndLibraries.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/RoadsAndLibraries.cpp)
+[Rust & Murderer](https://www.hackerrank.com/challenges/rust-murderer/problem) | [RustAndMurderer.cpp]()
 [Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up/problem) | SnakesAndLaddersQuickest.cpp
 [The Story of a Tree](https://www.hackerrank.com/challenges/the-story-of-a-tree/problem) | [StoryOfATreeDFS.cpp]
 
@@ -202,30 +205,30 @@ Problem | Solution
 ## algorithms/recursion
 Problem | Solution
 ------- | --------
-[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem) | CrosswordPuzzle.cpp
+[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem) | [CrosswordPuzzle.cpp]()
 [Hexagonal Grid](https://www.hackerrank.com/challenges/hexagonal-grid/problem) | [HexagonalGrid.cpp]()
 [K Factorization](https://www.hackerrank.com/challenges/k-factorization/problem) | [KFactorization.cpp]()
-[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | RecursiveDigitSum.cpp
-[Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem) | RecursionFibonacci.cpp
-[Stone Division, Revisited](https://www.hackerrank.com/challenges/stone-division-2/problem) | StoneDivisionRevisited.cpp
-[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) | ThePowerSum.cpp
+[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | [RecursiveDigitSum.cpp]()
+[Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem) | [RecursionFibonacci.cpp]()
+[Stone Division, Revisited](https://www.hackerrank.com/challenges/stone-division-2/problem) | [StoneDivisionRevisited.cpp]()
+[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) | [ThePowerSum.cpp]()
 
 ## algorithms/search
 Problem | Solution
 ------- | --------
-[Beautiful Quadruples](https://www.hackerrank.com/challenges/xor-quadruples/copy-from/102499027) | [BeautifulQuadruples.cpp]
-[Gena Playing Hanoi](https://www.hackerrank.com/challenges/gena/problem) | [GenaPlayingHanoi.cpp]
-[Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro/problem) | GridlandMetro.cpp
-[Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) | HackerlandRadioTransmitters.cpp
-[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem) | IceCreamParlor.cpp
-[KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard/problem) | KnightLOnAChessboard.cpp
-[Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem) | 
-[Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem) | 
-[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem) | MissingNumbers.cpp
-[Pairs](https://www.hackerrank.com/challenges/pairs/problem) | Pairs.cpp
-[Red Knight's Shortest Path](https://www.hackerrank.com/challenges/red-knights-shortest-path/problem) | 
-[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) | SherlockAndArray.cpp
-[Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome/problem) | 
+[Beautiful Quadruples](https://www.hackerrank.com/challenges/xor-quadruples/copy-from/102499027) | [BeautifulQuadruples.cpp]()
+[Gena Playing Hanoi](https://www.hackerrank.com/challenges/gena/problem) | [GenaPlayingHanoi.cpp]()
+[Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro/problem) | [GridlandMetro.cpp]()
+[Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) | [HackerlandRadioTransmitters.cpp]()
+[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem) | [IceCreamParlor.cpp]()
+[KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard/problem) | [KnightLOnAChessboard.cpp]()
+[Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem) | [MaximumSubarraySum.cpp]()
+[Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem) | [MinimumLoss.cpp]()
+[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem) | [MissingNumbers.cpp]()
+[Pairs](https://www.hackerrank.com/challenges/pairs/problem) | [Pairs.cpp]()
+[Red Knight's Shortest Path](https://www.hackerrank.com/challenges/red-knights-shortest-path/problem) | [RedKnightsShortestPath.cpp]()
+[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) | [SherlockAndArray.cpp]()
+[Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome/problem) | [ShortPalindrome.cpp]()
 
 ## algorithms/sorting
 Problem | Solution
