@@ -92,11 +92,13 @@ Problem | Solution
 [Jeanie's Route](https://www.hackerrank.com/challenges/jeanies-route/problem) | [JeaniesRoute.cpp]()
 [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) | JourneyToTheMoon.cpp
 [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub/problem) | KruskalMST.cpp
+[Minimum Penalty Path](https://www.hackerrank.com/challenges/beautiful-path/problem) | [MinimumPenaltyPath.cpp]()
 [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub/problem) | PrimsMST.cpp
 [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) | [RoadsAndLibraries.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/RoadsAndLibraries.cpp)
 [Rust & Murderer](https://www.hackerrank.com/challenges/rust-murderer/problem) | [RustAndMurderer.cpp]()
 [Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up/problem) | SnakesAndLaddersQuickest.cpp
-[The Story of a Tree](https://www.hackerrank.com/challenges/the-story-of-a-tree/problem) | [StoryOfATreeDFS.cpp]
+[Synchronous Shopping](https://www.hackerrank.com/challenges/synchronous-shopping/problem) | [SynchronousShopping.cpp]()
+[The Story of a Tree](https://www.hackerrank.com/challenges/the-story-of-a-tree/problem) | [StoryOfATreeDFS.cpp]()
 
 ## algorithms/greedy
 Problem | Solution
