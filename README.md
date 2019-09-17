@@ -440,6 +440,10 @@ Problem | Solution
 [#43: Sub-string divisibility](https://www.hackerrank.com/contests/projecteuler/challenges/euler043) | [euler043.cpp]()
 [#44: Pentagon numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler044) | [euler044.cpp]()
 [#45: Triangular, pentagonal, and hexagonal](https://www.hackerrank.com/contests/projecteuler/challenges/euler045) | [euler045.cpp]()
+[#46: Goldbach's other conjecture](https://www.hackerrank.com/contests/projecteuler/challenges/euler046) | [euler046.cpp]()
+[#47: Distinct primes factors](https://www.hackerrank.com/contests/projecteuler/challenges/euler047) | [euler047.cpp]()
+[#48: Self powers](https://www.hackerrank.com/contests/projecteuler/challenges/euler048) | [euler048.cpp]()
+[#49: Prime permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler049) | [euler049.cpp]() [WIP]
 
 ## 10 Days of Statistics
 Day | Problem | Solution
