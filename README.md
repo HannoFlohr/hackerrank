@@ -443,7 +443,20 @@ Problem | Solution
 [#46: Goldbach's other conjecture](https://www.hackerrank.com/contests/projecteuler/challenges/euler046) | [euler046.cpp]()
 [#47: Distinct primes factors](https://www.hackerrank.com/contests/projecteuler/challenges/euler047) | [euler047.cpp]()
 [#48: Self powers](https://www.hackerrank.com/contests/projecteuler/challenges/euler048) | [euler048.cpp]()
-[#49: Prime permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler049) | [euler049.cpp]() [WIP]
+[#49: Prime permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler049) | [euler049.cpp]() 
+[#50: Consecutive prime sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler050) | [euler050.cpp]()
+[#51: Prime digit replacements](https://www.hackerrank.com/contests/projecteuler/challenges/euler051) | [euler051.cpp]()
+[#52: Permuted multiples](https://www.hackerrank.com/contests/projecteuler/challenges/euler052) | [euler052.cpp]()
+[#53: Combinatoric selections](https://www.hackerrank.com/contests/projecteuler/challenges/euler053) | [euler053.cpp]()
+[#54: Poker hands](https://www.hackerrank.com/contests/projecteuler/challenges/euler054) | [euler054.cpp]()
+[#55: Lychrel numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler055) | [euler055.cpp]()
+[#56: Powerful digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler056) | [euler056.cpp]()
+[#57: Square root convergents](https://www.hackerrank.com/contests/projecteuler/challenges/euler057) | [euler057.cpp]()
+[#58: Spiral primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler058) | [euler058.cpp]()
+[#59: XOR decryption](https://www.hackerrank.com/contests/projecteuler/challenges/euler059) | [euler059.cpp]()
+[#60: Prime pair sets](https://www.hackerrank.com/contests/projecteuler/challenges/euler060) | [euler060.cpp]()
+[#61: Cyclical figurate numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler061) | [euler061.cpp]()
+[#62: Cubic permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler062) | [euler062.cpp]()
 
 ## 10 Days of Statistics
 Day | Problem | Solution
