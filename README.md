@@ -491,3 +491,8 @@ Problem | Solution
 [Bit Array](https://www.hackerrank.com/challenges/bitset-1/problem) | BitArray.cpp
 [C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics/problem) | CppVariadics.cpp
 [Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem) | MagicSpells.cpp
+
+## java
+this folder contains all (64) solutions to the "Practice Java" segment on hackkerrank - mostly done to just dust off my java knowledge (mostly programmed in java8)
+
+
