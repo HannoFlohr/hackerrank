@@ -1,5 +1,5 @@
 # Solutions for hackerrank.com problems
-coded in C++/C++14
+coded in C++/C++14 (unless stated otherwise)
 
 ## algorithms/bit manipulation
 Problem | Solution
@@ -457,6 +457,7 @@ Problem | Solution
 [#60: Prime pair sets](https://www.hackerrank.com/contests/projecteuler/challenges/euler060) | [euler060.cpp]()
 [#61: Cyclical figurate numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler061) | [euler061.cpp]()
 [#62: Cubic permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler062) | [euler062.cpp]()
+[#186: Connectedness of a network](https://www.hackerrank.com/contests/projecteuler/challenges/euler186) | [euler186.cpp]()
 
 ## 10 Days of Statistics
 Day | Problem | Solution
@@ -483,7 +484,7 @@ Day | Problem | Solution
 9 | [Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem) | Day9_MultipleLinearRegression.cpp
 
 ## c++
-most problems are just introduction to c++ concepts - only listing problems marked "Hard" and above, folder contains all (44) solutions
+most problems are just introduction to c++ concepts - listing only problems marked "Hard" and above, folder contains all (44) solutions
 
 Problem | Solution
 ------- | --------
@@ -491,6 +492,13 @@ Problem | Solution
 [Bit Array](https://www.hackerrank.com/challenges/bitset-1/problem) | BitArray.cpp
 [C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics/problem) | CppVariadics.cpp
 [Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem) | MagicSpells.cpp
+
+## mathematics
+listing only problems marked "Hard" and above, folder contains solutions to more problems
+
+Problem | Solution
+------- | --------
+[Sherlock and Permutations](https://www.hackerrank.com/challenges/sherlock-and-permutations/problem) | [SherlockAndPermutations.cpp]()
 
 ## java
 this folder contains all (64) solutions to the "Practice Java" segment on hackkerrank - mostly done to just dust off my java knowledge (mostly programmed in java8)
