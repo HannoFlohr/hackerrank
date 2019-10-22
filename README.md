@@ -498,6 +498,8 @@ listing only problems marked "Hard" and above, folder contains solutions to more
 
 Problem | Solution
 ------- | --------
+[Even Odd Query](https://www.hackerrank.com/challenges/even-odd-query/problem) | [EvenOddQuery.cpp]()
+[Matrix Tracing](https://www.hackerrank.com/challenges/matrix-tracing/problem) | [MatrixTracing.cpp]()
 [Sherlock and Permutations](https://www.hackerrank.com/challenges/sherlock-and-permutations/problem) | [SherlockAndPermutations.cpp]()
 
 ## java
