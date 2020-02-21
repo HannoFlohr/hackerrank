@@ -47,6 +47,7 @@ Problem | Solution
 [Construct the Array](https://www.hackerrank.com/challenges/construct-the-array/problem) | [ConstructTheArray.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/ConstructTheArray.cpp)
 [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers/problem) | [DecibinaryNumbers.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/DecibinaryNumbers.cpp)
 [Equal](https://www.hackerrank.com/challenges/equal/problem) | [Equal.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/Equal.cpp)
+[Extremum Permutations](https://www.hackerrank.com/challenges/extremum-permutations/problem) | [ExtremumPermutations.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/ExtremumPermutations.cpp)
 [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | [FibonacciModified.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/FibonacciModified.cpp)
 [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem) | [HackerrankCity.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/HackerrankCity.cpp)
 [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division/problem) | [KingdomDivision.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/KingdomDivision.cpp)
@@ -96,6 +97,7 @@ Problem | Solution
 [Minimum Penalty Path](https://www.hackerrank.com/challenges/beautiful-path/problem) | [MinimumPenaltyPath.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/MinimumPenaltyPath.cpp)
 [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub/problem) | [PrimsMST.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/PrimsMST.cpp)
 [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) | [RoadsAndLibraries.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/RoadsAndLibraries.cpp)
+[Roads in Hackerland](https://www.hackerrank.com/challenges/johnland/problem) | [RoadsInHackerland.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/RoadsInHackerland.cpp)
 [Rust & Murderer](https://www.hackerrank.com/challenges/rust-murderer/problem) | [RustAndMurderer.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/RustAndMurderer.cpp)
 [Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up/problem) | [SnakesAndLaddersQuickest.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/SnakesAndLaddersQuickest.cpp)
 [Synchronous Shopping](https://www.hackerrank.com/challenges/synchronous-shopping/problem) | [SynchronousShopping.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/SynchronousShopping.cpp)
@@ -213,6 +215,8 @@ Problem | Solution
 [K Factorization](https://www.hackerrank.com/challenges/k-factorization/problem) | [KFactorization.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/recursion/KFactorization.cpp)
 [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | [RecursiveDigitSum.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/recursion/RecursiveDigitSum.cpp)
 [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem) | [RecursionFibonacci.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/recursion/RecursionFibonacci.cpp)
+[Simplified Chess Engine](https://www.hackerrank.com/challenges/simplified-chess-engine/problem) | [SimplifiedChessEngine.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/recursion/SimplifiedChessEngine.cpp)
+[Simplified Chess Engine II](https://www.hackerrank.com/challenges/simplified-chess-engine-ii/problem) | [SimplifiedChessEngine2.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/recursion/SimplifiedChessEngine2.cpp) [WIP]
 [Stone Division, Revisited](https://www.hackerrank.com/challenges/stone-division-2/problem) | [StoneDivisionRevisited.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/recursion/StoneDivisionRevisited.cpp)
 [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) | [ThePowerSum.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/recursion/ThePowerSum.cpp)
 
