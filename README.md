@@ -314,10 +314,10 @@ Problem | Solution
 Problem | Solution
 ------- | --------
 [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) | [2DArrayDS.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/arrays/2DArrayDS.cpp)
-[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Arrays_DS.cpp]((https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/arrays/Arrays_DS.cpp)
-[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) | [DynamicArray.cpp]((https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/arrays/DynamicArray.cpp)
-[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [LeftRotation.cpp]((https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/arrays/LeftRotation.cpp)
-[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) | [SparseArray.cpp]((https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/arrays/SparseArray.cpp)
+[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Arrays_DS.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/arrays/Arrays_DS.cpp)
+[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) | [DynamicArray.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/arrays/DynamicArray.cpp)
+[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [LeftRotation.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/arrays/LeftRotation.cpp)
+[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) | [SparseArray.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/arrays/SparseArray.cpp)
 
 ## data structures/heap
 Problem | Solution
