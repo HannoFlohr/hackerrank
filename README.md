@@ -509,6 +509,8 @@ Problem | Solution
 [Even Odd Query](https://www.hackerrank.com/challenges/even-odd-query/problem) | [EvenOddQuery.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/EvenOddQuery.cpp)
 [Little Ashish's Huge Donation](https://www.hackerrank.com/challenges/little-chammys-huge-donation/problem) | [LittleAshishsHugeDonation.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/LittleAshishsHugeDonation.cpp)
 [Matrix Tracing](https://www.hackerrank.com/challenges/matrix-tracing/problem) | [MatrixTracing.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/MatrixTracing.cpp)
+[Mehta and his Laziness](https://www.hackerrank.com/challenges/mehta-and-his-laziness/problem) | [MatrixTracing.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/MehtaAndLaziness.cpp)
+[Power Calculation](https://www.hackerrank.com/challenges/power-calculation/problem) | [MatrixTracing.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/PowerCalculation.cpp)
 [Sherlock and Permutations](https://www.hackerrank.com/challenges/sherlock-and-permutations/problem) | [SherlockAndPermutations.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/SherlockAndPermutations.cpp)
 [Strange numbers](https://www.hackerrank.com/challenges/strange-numbers/problem) | [StrangeNumbers.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/StrangeNumbers.cpp)
 
