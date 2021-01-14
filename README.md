@@ -43,13 +43,17 @@ Problem | Solution
 Problem | Solution
 ------- | --------
 [Abbreviation](https://www.hackerrank.com/challenges/abbr/problem) | [Abbreviation.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/Abbreviation.cpp)
+[ArraySplitting](https://www.hackerrank.com/challenges/array-splitting/problem) | [ArraySplitting.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/ArraySplitting.cpp)
 [Bricks Game](https://www.hackerrank.com/challenges/play-game/problem) | [BricksGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/BricksGame.cpp)
+[Coin on the Table](https://www.hackerrank.com/challenges/coin-on-the-table/problem) | [CoinOnTheTable.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/CoinOnTheTable.cpp)
 [Construct the Array](https://www.hackerrank.com/challenges/construct-the-array/problem) | [ConstructTheArray.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/ConstructTheArray.cpp)
 [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers/problem) | [DecibinaryNumbers.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/DecibinaryNumbers.cpp)
 [Equal](https://www.hackerrank.com/challenges/equal/problem) | [Equal.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/Equal.cpp)
 [Extremum Permutations](https://www.hackerrank.com/challenges/extremum-permutations/problem) | [ExtremumPermutations.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/ExtremumPermutations.cpp)
+[FairCut](https://www.hackerrank.com/challenges/fair-cut/problem) | [FairCut.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/FairCut.cpp)
 [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | [FibonacciModified.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/FibonacciModified.cpp)
 [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem) | [HackerrankCity.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/HackerrankCity.cpp)
+[Interval Selection](https://www.hackerrank.com/challenges/hr-city/problem) | [IntervalSelection.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/IntervalSelection.cpp.cpp)
 [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division/problem) | [KingdomDivision.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/KingdomDivision.cpp)
 [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) | [Knapsack.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/Knapsack.cpp)
 [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks/problem) | [LegoBlocks.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/LegoBlocks.cpp)
@@ -64,6 +68,7 @@ Problem | Solution
 [Substring Diff](https://www.hackerrank.com/challenges/substring-diff/problem) | [SubstringDiff.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/SubstringDiff.cpp)
 [Summing Pieces](https://www.hackerrank.com/challenges/summing-pieces/problem) | [SummingPieces.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/SummingPieces.cpp)
 [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem) | [CoinChange.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/CoinChange.cpp)
+[The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem) | [LongestCommonSubsequence.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/LongestCommonSubsequence.cpp)
 [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/problem) | [TheMaximumSubarray.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/TheMaximumSubarray.cpp)
 [Xor and Sum](https://www.hackerrank.com/challenges/xor-and-sum/problem) | [XorAndSum.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/XorAndSum.cpp)
 
@@ -509,8 +514,8 @@ Problem | Solution
 [Even Odd Query](https://www.hackerrank.com/challenges/even-odd-query/problem) | [EvenOddQuery.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/EvenOddQuery.cpp)
 [Little Ashish's Huge Donation](https://www.hackerrank.com/challenges/little-chammys-huge-donation/problem) | [LittleAshishsHugeDonation.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/LittleAshishsHugeDonation.cpp)
 [Matrix Tracing](https://www.hackerrank.com/challenges/matrix-tracing/problem) | [MatrixTracing.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/MatrixTracing.cpp)
-[Mehta and his Laziness](https://www.hackerrank.com/challenges/mehta-and-his-laziness/problem) | [MatrixTracing.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/MehtaAndLaziness.cpp)
-[Power Calculation](https://www.hackerrank.com/challenges/power-calculation/problem) | [MatrixTracing.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/PowerCalculation.cpp)
+[Mehta and his Laziness](https://www.hackerrank.com/challenges/mehta-and-his-laziness/problem) | [MehtaAndLaziness.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/MehtaAndLaziness.cpp)
+[Power Calculation](https://www.hackerrank.com/challenges/power-calculation/problem) | [PowerCalculation.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/PowerCalculation.cpp)
 [Sherlock and Permutations](https://www.hackerrank.com/challenges/sherlock-and-permutations/problem) | [SherlockAndPermutations.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/SherlockAndPermutations.cpp)
 [Strange numbers](https://www.hackerrank.com/challenges/strange-numbers/problem) | [StrangeNumbers.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/StrangeNumbers.cpp)
 
