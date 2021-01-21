@@ -70,6 +70,7 @@ Problem | Solution
 [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem) | [CoinChange.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/CoinChange.cpp)
 [The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem) | [LongestCommonSubsequence.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/LongestCommonSubsequence.cpp)
 [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/problem) | [TheMaximumSubarray.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/TheMaximumSubarray.cpp)
+[What's Next?](https://www.hackerrank.com/challenges/whats-next/problem) | [WhatsNext.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/WhatsNext.cpp)
 [Xor and Sum](https://www.hackerrank.com/challenges/xor-and-sum/problem) | [XorAndSum.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/XorAndSum.cpp)
 
 ## algorithms/game theory
@@ -288,6 +289,7 @@ Problem | Solution
 [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem) | [MakingAnagrams.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/MakingAnagrams.cpp)
 [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | [MarsExploration.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/MarsExploration.cpp)
 [Maximum Palindromes](https://www.hackerrank.com/challenges/maximum-palindromes/problem) | [MaximumPalindromes.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/MaximumPalindromes.cpp)
+[Morgan and a String](https://www.hackerrank.com/challenges/morgan-and-a-string/problem) | [MorganAndAString.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/MorganAndAString.cpp)
 [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem) | [PalindromeIndex.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/PalindromeIndex.cpp)
 [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | [Pangrams.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/Pangrams.cpp)
 [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem) | [SeparateTheNumbers.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/SeparateTheNumbers.cpp)
