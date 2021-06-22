@@ -475,6 +475,10 @@ Problem | Solution
 [#60: Prime pair sets](https://www.hackerrank.com/contests/projecteuler/challenges/euler060) | [euler060.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler060.cpp)
 [#61: Cyclical figurate numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler061) | [euler061.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler061.cpp)
 [#62: Cubic permutations](https://www.hackerrank.com/contests/projecteuler/challenges/euler062) | [euler062.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler062.cpp)
+[#63: Powerful digit counts](https://www.hackerrank.com/contests/projecteuler/challenges/euler063) | [euler063.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler063.cpp)
+[#64: Odd period square roots](https://www.hackerrank.com/contests/projecteuler/challenges/euler064) | [euler064.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler064.cpp)
+[#107: Minimal network](https://www.hackerrank.com/contests/projecteuler/challenges/euler107) | [euler107.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler107.cpp)
+[#122: Efficient exponentiation](https://www.hackerrank.com/contests/projecteuler/challenges/euler122) | [euler122.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler122.cpp)
 [#186: Connectedness of a network](https://www.hackerrank.com/contests/projecteuler/challenges/euler186) | [euler186.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler186.cpp)
 
 ## 10 Days of Statistics
