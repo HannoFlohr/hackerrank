@@ -78,9 +78,12 @@ Problem | Solution
 Problem | Solution
 ------- | --------
 [A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem) | [AChessboardGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/AChessboardGame.cpp)
+[Alice and Bob's Silly Game](https://www.hackerrank.com/challenges/alice-and-bobs-silly-game/problem) | [AliceAndBobsSillyGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/AliceAndBobsSillyGame.cpp)
 [Bob and Ben](https://www.hackerrank.com/challenges/bob-and-ben/problem) | [BobAndBen.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/BobAndBen.cpp)
+[Fun Game](//https://www.hackerrank.com/challenges/fun-game-1/problem) | [FunGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/FunGame.cpp)
 [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem) | [GameOfStones.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/GameOfStones.cpp)
 [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem) | [NimIntro.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/NimIntro.cpp)
+[Kitty and Katty](https://www.hackerrank.com/challenges/kitty-and-katty/problem) | [KittyAndKatty.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/KittyAndKatty.cpp)
 [Misère Nim](https://www.hackerrank.com/challenges/misere-nim-1/problem) | [MisereNim.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/MisereNim.cpp)
 [Nimble Game](https://www.hackerrank.com/challenges/nimble-game-1/problem) | [NimbleGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/NimbleGame.cpp)
 [Permutation game](https://www.hackerrank.com/challenges/permutation-game/problem) | [PermutationGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/PermutationGame.cpp)
