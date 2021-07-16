@@ -72,12 +72,14 @@ Problem | Solution
 [The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem) | [LongestCommonSubsequence.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/LongestCommonSubsequence.cpp)
 [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/problem) | [TheMaximumSubarray.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/TheMaximumSubarray.cpp)
 [What's Next?](https://www.hackerrank.com/challenges/whats-next/problem) | [WhatsNext.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/WhatsNext.cpp)
+[Wet Shark and Two Subsequences](https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences/problem) | [WetSharkAndTwoSubsequences.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/WetSharkAndTwoSubsequences.cpp)
 [Xor and Sum](https://www.hackerrank.com/challenges/xor-and-sum/problem) | [XorAndSum.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/XorAndSum.cpp)
 
 ## algorithms/game theory
 Problem | Solution
 ------- | --------
 [A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem) | [AChessboardGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/AChessboardGame.cpp)
+[A Chessboard Game, Again!](https://www.hackerrank.com/challenges/chessboard-game-again-1/problem) | [AChessboardGameAgain.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/AChessboardGameAgain.cpp)
 [Alice and Bob's Silly Game](https://www.hackerrank.com/challenges/alice-and-bobs-silly-game/problem) | [AliceAndBobsSillyGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/AliceAndBobsSillyGame.cpp)
 [Bob and Ben](https://www.hackerrank.com/challenges/bob-and-ben/problem) | [BobAndBen.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/BobAndBen.cpp)
 [Fun Game](//https://www.hackerrank.com/challenges/fun-game-1/problem) | [FunGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/FunGame.cpp)
