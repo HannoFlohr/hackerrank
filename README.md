@@ -16,6 +16,7 @@ Problem | Solution
 [The Great XOR](https://www.hackerrank.com/challenges/the-great-xor/problem) | [TheGreatXor.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/TheGreatXor.cpp)
 [Xor-sequence](https://www.hackerrank.com/challenges/xor-se/problem) | [XorSequence.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/XorSequence.cpp)
 [Xoring Ninja](https://www.hackerrank.com/challenges/xoring-ninja/problem) | [XoringNinja.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/XoringNinja.cpp)
+[Yet Another Minimax Problem](https://www.hackerrank.com/challenges/yet-another-minimax-problem/problem) | [YetAnotherMinimaxProblem.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/YetAnotherMinimaxProblem.cpp)
 
 ## algorithms/constructive algorithms
 Problem | Solution
@@ -294,6 +295,7 @@ Problem | Solution
 [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem) | [Gemstones.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/Gemstones.cpp)
 [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [HackerrankInAString.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/HackerrankInAString.cpp)
 [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem) | [HighestValuePalindrome.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/HighestValuePalindrome.cpp)
+[Letter Islands](https://www.hackerrank.com/challenges/letter-islands/problem) | [LetterIslands.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/LetterIslands.cpp) [WIP, 15/33]
 [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem) | [MakingAnagrams.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/MakingAnagrams.cpp)
 [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | [MarsExploration.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/MarsExploration.cpp)
 [Maximum Palindromes](https://www.hackerrank.com/challenges/maximum-palindromes/problem) | [MaximumPalindromes.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/MaximumPalindromes.cpp)
