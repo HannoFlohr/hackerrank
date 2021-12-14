@@ -83,6 +83,7 @@ Problem | Solution
 [A Chessboard Game, Again!](https://www.hackerrank.com/challenges/chessboard-game-again-1/problem) | [AChessboardGameAgain.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/AChessboardGameAgain.cpp)
 [Alice and Bob's Silly Game](https://www.hackerrank.com/challenges/alice-and-bobs-silly-game/problem) | [AliceAndBobsSillyGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/AliceAndBobsSillyGame.cpp)
 [Bob and Ben](https://www.hackerrank.com/challenges/bob-and-ben/problem) | [BobAndBen.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/BobAndBen.cpp)
+[Deforestation](https://www.hackerrank.com/challenges/deforestation-1/problem) | [Deforestation.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/Deforestation.cpp)
 [Fun Game](//https://www.hackerrank.com/challenges/fun-game-1/problem) | [FunGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/FunGame.cpp)
 [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem) | [GameOfStones.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/GameOfStones.cpp)
 [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem) | [NimIntro.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/NimIntro.cpp)
@@ -96,6 +97,7 @@ Problem | Solution
 [Tower Breakers, Revisited!](https://www.hackerrank.com/challenges/tower-breakers-revisited-1/problem) | [TowerBreakersRevisited.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/TowerBreakersRevisited.cpp)
 [Tower Breakers, Again!](https://www.hackerrank.com/challenges/tower-breakers-again-1/problem) | [TowerBreakersAgain.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/TowerBreakersAgain.cpp)
 [Tower Breakers - The Final Battle](https://www.hackerrank.com/challenges/tower-breakers-the-final-battle-1/problem) | [TowerBreakersFinal.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/TowerBreakersFinal.cpp)
+[Zero-Move Nim](https://www.hackerrank.com/challenges/zero-move-nim/problem) | [ZeroMoveNim.cpp]((https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/ZeroMoveNim.cpp) 
 
 ## algorithms/graph theory
 Problem | Solution
