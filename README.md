@@ -540,4 +540,7 @@ Problem | Solution
 ## java
 this folder contains all (64) solutions to the "Practice Java" segment on hackkerrank - mostly done to just dust off my java knowledge (mostly programmed in java8)
 
+## python
+this folder contains solutions to the "Practice Python" segment on hackerrank (python3) 
+
 
