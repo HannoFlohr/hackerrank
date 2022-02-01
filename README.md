@@ -1,7 +1,54 @@
-# Solutions for hackerrank.com problems
-coded in C++/C++14 (unless stated otherwise)
+# HackerRank.com - Practice & Solutions
+Solutions to problems from [HackerRank](https://www.hackerrank.com) - some to freshen up my basics, most to keep learning new things. 
 
-## algorithms/bit manipulation
+<p align="center"> 
+	<a href="https://www.hackerrank.com/hanno_f">
+		<img alt="HackerRank Logo" src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg">
+	</a>
+</p>
+
+## HackerRank Certificates
+* C++ [(Advanced)](/certificates/c++_advanced.png) [(Intermediate)](/certificates/c++_intermediate.png) [(Basic)](/certificates/c++_basic.png)
+* Problem Solving [(Advanced)](/certificates/problem_solving_advanced.png) [(Intermediate)](/certificates/problem_solving_intermediate.png) [(Basic)](/certificates/problem_solving_basic.png)
+* Java [(Intermediate)](/certificates/java_intermediate.png) [(Basic)](/certificates/java_basic.png)
+* Python [(Basic)](/certificates/python_basic.png)
+
+## Content
+* [algorithms](#algorithms)
+    * [bit manipulation](#bit-manipulation)
+    * [constructive algorithms](#constructive-algorithms)
+    * [debugging](#debugging)
+	* [dynamic programming](#dynamic-programming)
+	* [game theory](#game-theory)
+	* [graph theory](#graph-theory)
+	* [greedy](#greedy) 
+	* [implementation](#implementation)
+	* [recursion](#recursion)
+	* [search](#search)
+	* [sorting](#sorting)
+	* [strings](#strings)
+	* [warmup](#warmup)
+* [data structures](#data-structures)
+    * [arrays](#arrays)
+	* [heap](#heap)
+	* [linked lists](#linked-lists)
+	* [queues](#queues)
+	* [stacks](#stacks)
+	* [trees](#trees)
+* [cracking the coding interview](#cracking-the-coding-interview)
+* [artificial intelligence](#artificial-intelligence)
+* [ProjectEuler+](#projecteuler)
+* [10 Day of Statistics](#10-days-of-statistics)
+* [c++](#c)
+* [mathematics](#mathematics)
+* [java](#java)
+* [python](#python)
+
+Besides the language specific categories, everything else was mostly coded in C++ (with some use of C++11/14)
+
+## algorithms
+
+### bit manipulation
 Problem | Solution
 ------- | --------
 [AND Product](https://www.hackerrank.com/challenges/and-product/problem) | [AndProduct.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/AndProduct.cpp)
@@ -18,7 +65,7 @@ Problem | Solution
 [Xoring Ninja](https://www.hackerrank.com/challenges/xoring-ninja/problem) | [XoringNinja.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/XoringNinja.cpp)
 [Yet Another Minimax Problem](https://www.hackerrank.com/challenges/yet-another-minimax-problem/problem) | [YetAnotherMinimaxProblem.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/bit%20manipulation/YetAnotherMinimaxProblem.cpp)
 
-## algorithms/constructive algorithms
+### constructive algorithms
 Problem | Solution
 ------- | --------
 [Array Construction](https://www.hackerrank.com/challenges/array-construction/problem) | [ArrayConstruction.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/constructive%20algorithms/ArrayConstruction.cpp)
@@ -31,7 +78,7 @@ Problem | Solution
 [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [NewYearChaos.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/constructive%20algorithms/NewYearChaos.cpp)
 [Yet Another KMP Problem](https://www.hackerrank.com/challenges/kmp-problem/problem) | [YetAnotherKMPProblem.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/constructive%20algorithms/YetAnotherKMPProblem.cpp)
 
-## algorithms/debugging
+### debugging
 Problem | Solution
 ------- | --------
 [Minimum Operations](https://www.hackerrank.com/challenges/minimum-operations/copy-from/102529845) | [MinimumOperations.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/debugging/MinimumOperations.cpp)
@@ -40,7 +87,7 @@ Problem | Solution
 [XOR Strings](https://www.hackerrank.com/challenges/strings-xor/problem) | [XorStrings.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/debugging/XorStrings.cpp)
 [Zig Zag Sequence](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) | [ZigZagSequence.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/debugging/ZigZagSequence.cpp)
 
-## algorithms/dynamic programming
+### dynamic programming
 Problem | Solution
 ------- | --------
 [Abbreviation](https://www.hackerrank.com/challenges/abbr/problem) | [Abbreviation.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/Abbreviation.cpp)
@@ -76,7 +123,7 @@ Problem | Solution
 [Wet Shark and Two Subsequences](https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences/problem) | [WetSharkAndTwoSubsequences.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/WetSharkAndTwoSubsequences.cpp)
 [Xor and Sum](https://www.hackerrank.com/challenges/xor-and-sum/problem) | [XorAndSum.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/XorAndSum.cpp)
 
-## algorithms/game theory
+### game theory
 Problem | Solution
 ------- | --------
 [A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem) | [AChessboardGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/AChessboardGame.cpp)
@@ -99,7 +146,7 @@ Problem | Solution
 [Tower Breakers - The Final Battle](https://www.hackerrank.com/challenges/tower-breakers-the-final-battle-1/problem) | [TowerBreakersFinal.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/TowerBreakersFinal.cpp)
 [Zero-Move Nim](https://www.hackerrank.com/challenges/zero-move-nim/problem) | [ZeroMoveNim.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/ZeroMoveNim.cpp) 
 
-## algorithms/graph theory
+### graph theory
 Problem | Solution
 ------- | --------
 [Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach/problem) | [BreadthFirstSearchShortestReach.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/BreadthFirstSearchShortestReach.cpp)
@@ -122,7 +169,7 @@ Problem | Solution
 [Synchronous Shopping](https://www.hackerrank.com/challenges/synchronous-shopping/problem) | [SynchronousShopping.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/SynchronousShopping.cpp)
 [The Story of a Tree](https://www.hackerrank.com/challenges/the-story-of-a-tree/problem) | [StoryOfATreeDFS.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/StoryOfATreeDFS.cpp)
 
-## algorithms/greedy
+### greedy
 Problem | Solution
 ------- | --------
 [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem) | [BeautifulPairs.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/greedy/BeautifulPairs.cpp)
@@ -146,7 +193,7 @@ Problem | Solution
 [Sherlock and MiniMax](https://www.hackerrank.com/challenges/sherlock-and-minimax/problem) | [SherlockAndMiniMax.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/greedy/SherlockAndMiniMax.cpp)
 [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem) | [SherlockAndTheBeast.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/greedy/SherlockAndTheBeast.cpp)
 
-## algorithms/implementation
+### implementation
 Problem | Solution
 ------- | --------
 [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem) | [3DSurfaceArea.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/implementation/3DSurfaceArea.cpp)
@@ -226,7 +273,7 @@ Problem | Solution
 [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | [UtopianTree.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/implementation/UtopianTree.cpp)
 [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [ViralAdvertising.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/implementation/ViralAdvertising.cpp)
 
-## algorithms/recursion
+### recursion
 Problem | Solution
 ------- | --------
 [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem) | [CrosswordPuzzle.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/recursion/CrosswordPuzzle.cpp)
@@ -240,7 +287,7 @@ Problem | Solution
 [Stone Division, Revisited](https://www.hackerrank.com/challenges/stone-division-2/problem) | [StoneDivisionRevisited.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/recursion/StoneDivisionRevisited.cpp)
 [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) | [ThePowerSum.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/recursion/ThePowerSum.cpp)
 
-## algorithms/search
+### search
 Problem | Solution
 ------- | --------
 [Beautiful Quadruples](https://www.hackerrank.com/challenges/xor-quadruples/copy-from/102499027) | [BeautifulQuadruples.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/search/BeautifulQuadruples.cpp)
@@ -257,7 +304,7 @@ Problem | Solution
 [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) | [SherlockAndArray.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/search/SherlockAndArray.cpp)
 [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome/problem) | [ShortPalindrome.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/search/ShortPalindrome.cpp)
 
-## algorithms/sorting
+### sorting
 Problem | Solution
 ------- | --------
 [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | [BigSorting.cpp](https://github.com/HannoFlohr/hackerrank/tree/master/algorithms/sorting/BigSorting.cpp)
@@ -280,7 +327,7 @@ Problem | Solution
 [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4/problem) | [RunningTimeOfQuicksort.cpp](https://github.com/HannoFlohr/hackerrank/tree/master/algorithms/sorting/RunningTimeOfQuicksort.cpp)
 [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | [TheFullCountingSort.cpp](https://github.com/HannoFlohr/hackerrank/tree/master/algorithms/sorting/TheFullCountingSort.cpp)
 
-## algorithms/strings
+### strings
 Problem | Solution
 ------- | --------
 [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | [AlternatingStrings.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/AlternatingStrings.cpp)
@@ -316,7 +363,7 @@ Problem | Solution
 [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | [TwoStrings.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/TwoStrings.cpp)
 [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) | [WeightedUniformStrings.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/WeightedUniformStrings.cpp)
 
-## algorithms/warmup
+### warmup
 Problem | Solution
 ------- | --------
 [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [AVeryBigSum.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/warmup/AVeryBigSum.cpp)
@@ -329,7 +376,9 @@ Problem | Solution
 [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Staircase.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/warmup/Staircase.cpp)
 [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [TimeConversion.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/warmup/TimeConversion.cpp)
 
-## data structures/arrays
+## data structures
+
+### arrays
 Problem | Solution
 ------- | --------
 [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) | [2DArrayDS.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/arrays/2DArrayDS.cpp)
@@ -338,12 +387,12 @@ Problem | Solution
 [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [LeftRotation.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/arrays/LeftRotation.cpp)
 [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) | [SparseArray.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/arrays/SparseArray.cpp)
 
-## data structures/heap
+### heap
 Problem | Solution
 ------- | --------
 [QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem) | [QHEAP1.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/heap/QHEAP1.cpp)
 
-## data structures/linked lists
+### linked lists
 Problem | Solution
 ------- | --------
 [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) | [CompareTwoLL.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/linked%20lists/CompareTwoLL.cpp)
@@ -362,13 +411,13 @@ Problem | Solution
 [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) | [ReverseDoublyLinkedList.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/linked%20lists/ReverseDoublyLinkedList.cpp)
 [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) | [ReverseLinkedList.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/linked%20lists/ReverseLinkedList.cpp)
 
-## data structures/queues
+### queues
 Problem | Solution
 ------- | --------
 [Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem) | [CastleOnTheGrid.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/queues/CastleOnTheGrid.cpp)
 [Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) | [QueueUsingTwoStacks.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/queues/QueueUsingTwoStacks.cpp)
 
-## data structures/stacks
+### stacks
 Problem | Solution
 ------- | --------
 [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/submissions/code/98511790) | [BalancedBrackets.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/stacks/BalancedBrackets.cpp)
@@ -376,7 +425,7 @@ Problem | Solution
 [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem) | [MaximumElement.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/stacks/MaximumElement.cpp)
 [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem) | [PoisonousPlants.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/stacks/PoisonousPlants.cpp)
 
-## data structures/trees
+### trees
 Problem | Solution
 ------- | --------
 [Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest/problem) | [BalancedForest.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/data%20structures/trees/BalancedForest.cpp) (5/8)
@@ -415,9 +464,9 @@ Problem | Solution
 ## artificial intelligence
 Problem | Solution
 ------- | --------
-[Bot saves princess](https://www.hackerrank.com/challenges/saveprincess) | [BotSavesPrincess.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ArtificialIntelligence/BotSavesPrincess.cpp)
-[Bot saves princess - 2](https://www.hackerrank.com/challenges/saveprincess2) | [BotSavesPrincess2.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ArtificialIntelligence/BotSavesPrincess2.cpp)
-[BotClean](https://www.hackerrank.com/challenges/botclean) | [BotClean.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ArtificialIntelligence/BotClean.cpp)
+[Bot saves princess](https://www.hackerrank.com/challenges/saveprincess) | [BotSavesPrincess.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/artificial%20intelligence/BotSavesPrincess.cpp)
+[Bot saves princess - 2](https://www.hackerrank.com/challenges/saveprincess2) | [BotSavesPrincess2.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/artificial%20intelligence/BotSavesPrincess2.cpp)
+[BotClean](https://www.hackerrank.com/challenges/botclean) | [BotClean.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/artificial%20intelligence/BotClean.cpp)
 
 ## ProjectEuler+
 Problem | Solution
@@ -515,7 +564,7 @@ Day | Problem | Solution
 9 | [Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem) | [Day9_MultipleLinearRegression.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/10DaysOfStatistics/Day9_MultipleLinearRegression.cpp)
 
 ## c++
-most problems are just introduction to c++ concepts - listing only problems marked "Hard" and above, folder contains all (44) solutions
+most problems are just introduction to c++ concepts - listed here are only problems marked "Hard" and above, the folder contains all (44) solutions
 
 Problem | Solution
 ------- | --------
@@ -525,7 +574,7 @@ Problem | Solution
 [Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem) | [MagicSpells.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/cpp/MagicSpells.cpp)
 
 ## mathematics
-listing only problems marked "Hard" and above, folder contains solutions to more problems
+listed here are only problems marked "Hard" and above, the folder contains solutions to more problems
 
 Problem | Solution
 ------- | --------
@@ -543,4 +592,8 @@ this folder contains all (64) solutions to the "Practice Java" segment on hackke
 ## python
 this folder contains solutions to the "Practice Python" segment on hackerrank (python3) 
 
-
+<p align="center"> 
+	<a href="https://www.hackerrank.com/hanno_f">
+		<img alt="HackerRank Logo" src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg">
+	</a>
+</p>
