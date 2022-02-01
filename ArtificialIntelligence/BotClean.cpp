@@ -1,5 +1,60 @@
 #include<iostream>
 #include<vector>
+using namespace std;
+
+//move bot toward the closest dirty cell
+void next_move(int posr, int posc, vector <string> board) {
+    if(board[posr][posc] == 'd') 
+        cout << "CLEAN";
+    else if(posc != 0 && board[posr][posc-1] == 'd') 
+        cout << "LEFT";
+    else if(posc != board[posr].size()-1 && board[posr][posc+1] == 'd') 
+        cout << "RIGHT";
+    else if(posr != 0 && board[posr-1][posc] == 'd')
+        cout << "UP";
+    else if(posr != board.size()-1 && board[posr+1][posc] == 'd')
+        cout << "DOWN";
+    else {
+        const size_t pos = board[posr].find('d');
+        if(pos!=string::npos) {
+            if(pos<posc) cout << "LEFT";
+            else cout << "RIGHT";
+        }
+        else {
+            const size_t c = board.size() - posr - 1;
+            for(size_t i{0}; i<c || i<board.size()-c; ++i) {
+                if(posr+i+1 < board.size() && board[posr+i+1].find('d') != string::npos){
+                    cout << "DOWN";
+                    break;
+                }
+                else if(posr-i >= 0 && board[posr-i].find('d') != string::npos){
+                    cout << "UP";
+                    break;
+                }
+            }
+        }
+    }
+    cout << endl;
+}
+
+int main(void) {
+    int pos[2];
+    vector <string> board;
+    cin>>pos[0]>>pos[1];
+    for(int i=0;i<5;i++) {
+        string s;cin >> s;
+        board.push_back(s);
+    }
+    next_move(pos[0], pos[1], board);
+    return 0;
+}
+//https://www.hackerrank.com/challenges/botclean/problem
+
+//old approach, won all games, but with worse score
+/*
+
+#include<iostream>
+#include<vector>
 #include<algorithm>
 using namespace std;
 
@@ -73,3 +128,4 @@ int main(void) {
     next_move(pos[0], pos[1], board);
     return 0;
 }
+*/ 
