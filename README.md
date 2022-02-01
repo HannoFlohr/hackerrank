@@ -97,7 +97,7 @@ Problem | Solution
 [Tower Breakers, Revisited!](https://www.hackerrank.com/challenges/tower-breakers-revisited-1/problem) | [TowerBreakersRevisited.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/TowerBreakersRevisited.cpp)
 [Tower Breakers, Again!](https://www.hackerrank.com/challenges/tower-breakers-again-1/problem) | [TowerBreakersAgain.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/TowerBreakersAgain.cpp)
 [Tower Breakers - The Final Battle](https://www.hackerrank.com/challenges/tower-breakers-the-final-battle-1/problem) | [TowerBreakersFinal.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/TowerBreakersFinal.cpp)
-[Zero-Move Nim](https://www.hackerrank.com/challenges/zero-move-nim/problem) | [ZeroMoveNim.cpp]((https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/ZeroMoveNim.cpp) 
+[Zero-Move Nim](https://www.hackerrank.com/challenges/zero-move-nim/problem) | [ZeroMoveNim.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/ZeroMoveNim.cpp) 
 
 ## algorithms/graph theory
 Problem | Solution
