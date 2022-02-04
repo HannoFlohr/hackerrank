@@ -4,13 +4,13 @@
 #include<vector>
 using namespace std;
 
-int who_wins(const int &x, const int &y, const vector<vector<int>> &teams, unsigned sum_x, unsigned sum_y) {
-    const vector<int> &team1 = teams[x];
-    const vector<int> &team2 = teams[y];
+int who_wins(const unsigned int &x, const unsigned int &y, const vector<vector<unsigned int>> &teams, unsigned int sum_x, unsigned int sum_y) {
+    const vector<unsigned int> &team1 = teams[x];
+    const vector<unsigned int> &team2 = teams[y];
     int team1_fighter = team1.size() - 1;
     int team2_fighter = team2.size() - 1;
     bool team1turn = true;
-    
+
     while(true) {
         if(team1turn) {
             if(sum_x >= sum_y)
@@ -38,11 +38,11 @@ int who_wins(const int &x, const int &y, const vector<vector<int>> &teams, unsig
 
 int main() {
     ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
-    int n, k, q, s, t, x, y;
+    unsigned int n, k, q, s, t, x, y;
     cin >> n >> k >> q;
     
     //Setup teams
-    vector<vector<int>> teams (k+1);
+    vector<vector<unsigned int>> teams (k+1);
     vector<unsigned> sums (k+1,0);
     for(int i=0; i<n; i++) {
         cin >> s >> t;
@@ -58,10 +58,9 @@ int main() {
             teams[y].push_back(x);
             sums[y] += x;
         }
-        else if(t==2) 
+        else// if(t==2) 
             cout << who_wins(x, y, teams, sums[x], sums[y]) << endl;
     }
     
     return 0;
 }
-//https://www.hackerrank.com/challenges/fighting-pits/problem
