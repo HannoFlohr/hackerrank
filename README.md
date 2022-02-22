@@ -559,6 +559,10 @@ Problem | Solution
 [#83: Path sum: four ways](https://www.hackerrank.com/contests/projecteuler/challenges/euler83) | [euler83.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler83.cpp)
 [#85: Counting rectangles](https://www.hackerrank.com/contests/projecteuler/challenges/euler85) | [euler85.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler85.cpp)
 [#86: Cuboid route](https://www.hackerrank.com/contests/projecteuler/challenges/euler86) | [euler86.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler86.cpp)
+[#87: Prime power triples](https://www.hackerrank.com/contests/projecteuler/challenges/euler87) | [euler87.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler87.cpp)
+[#88: Product-sum numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler88) | [euler88.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler88.cpp)
+[#89: Roman numerals](https://www.hackerrank.com/contests/projecteuler/challenges/euler89) | [euler89.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler89.cpp)
+[#90: Cube digit pairs](https://www.hackerrank.com/contests/projecteuler/challenges/euler90) | [euler90.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler90.cpp) [12/43]
 [#107: Minimal network](https://www.hackerrank.com/contests/projecteuler/challenges/euler107) | [euler107.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler107.cpp)
 [#122: Efficient exponentiation](https://www.hackerrank.com/contests/projecteuler/challenges/euler122) | [euler122.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler122.cpp)
 [#186: Connectedness of a network](https://www.hackerrank.com/contests/projecteuler/challenges/euler186) | [euler186.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler186.cpp)
