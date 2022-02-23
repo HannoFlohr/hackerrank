@@ -109,6 +109,7 @@ Problem | Solution
 [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks/problem) | [LegoBlocks.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/LegoBlocks.cpp)
 [Mandragora Forest](https://www.hackerrank.com/challenges/mandragora/problem) | [MandragoraForest.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/MandragoraForest.cpp)
 [Play with words](https://www.hackerrank.com/challenges/strplay/problem) | [PlayWithWords.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/PlayWithWords.cpp)
+[Prime Digit Sums](https://www.hackerrank.com/challenges/prime-digit-sums/problem) | [PrimeDigitSums.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/PrimeDigitSums.cpp)
 [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem) | [PrimeXOR.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/PrimeXOR.cpp)
 [Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back/problem) | [RedJohnIsBack.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/RedJohnIsBack.cpp)
 [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | [SamAndSubstrings.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/SamAndSubstrings.cpp)
