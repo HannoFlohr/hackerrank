@@ -340,6 +340,7 @@ Problem | Solution
 [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | [BeautifulBinaryString.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/BeautifulBinaryString.cpp)
 [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | [CaesarCipher.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/CaesarCipher.cpp)
 [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [CamelCase.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/CamelCase.cpp)
+[CardsPermutations](https://www.hackerrank.com/challenges/cards-permutation/problem) | [CardsPermutations.cpp]((https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/CardsPermutations.cpp)
 [Common Child](https://www.hackerrank.com/challenges/common-child/problem) | [CommonChild.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/CommonChild.cpp)
 [Count Strings](https://www.hackerrank.com/challenges/count-strings/problem) | [CountStrings.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/CountStrings.cpp)
 [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health/problem) | [DeterminingDNAHealth.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/strings/DeterminingDNAHealth.cpp) - timeouts for most cases
