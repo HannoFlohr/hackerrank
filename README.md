@@ -133,6 +133,7 @@ Problem | Solution
 [A Chessboard Game, Again!](https://www.hackerrank.com/challenges/chessboard-game-again-1/problem) | [AChessboardGameAgain.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/AChessboardGameAgain.cpp)
 [Alice and Bob's Silly Game](https://www.hackerrank.com/challenges/alice-and-bobs-silly-game/problem) | [AliceAndBobsSillyGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/AliceAndBobsSillyGame.cpp)
 [Bob and Ben](https://www.hackerrank.com/challenges/bob-and-ben/problem) | [BobAndBen.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/BobAndBen.cpp)
+[Chocolate in Box](https://www.hackerrank.com/challenges/chocolate-in-box/problem) | [ChocolateInABox.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/ChocolateInABox.cpp)
 [Deforestation](https://www.hackerrank.com/challenges/deforestation-1/problem) | [Deforestation.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/Deforestation.cpp)
 [Fun Game](//https://www.hackerrank.com/challenges/fun-game-1/problem) | [FunGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/FunGame.cpp)
 [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem) | [GameOfStones.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/GameOfStones.cpp)
@@ -141,12 +142,14 @@ Problem | Solution
 [Misère Nim](https://www.hackerrank.com/challenges/misere-nim-1/problem) | [MisereNim.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/MisereNim.cpp)
 [Nimble Game](https://www.hackerrank.com/challenges/nimble-game-1/problem) | [NimbleGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/NimbleGame.cpp)
 [Permutation game](https://www.hackerrank.com/challenges/permutation-game/problem) | [PermutationGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/PermutationGame.cpp)
+[Play on benders](https://www.hackerrank.com/challenges/benders-play/problem) | [PlayOnBenders.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/PlayOnBenders.cpp)
 [Poker Nim](https://www.hackerrank.com/challenges/poker-nim-1/problem) | [PokerNim.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/PokerNim.cpp)
 [Powers Game](https://www.hackerrank.com/challenges/powers-game-1/problem) | [PowersGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/PowersGame.cpp)
 [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem) | [TowerBreakers.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/TowerBreakers.cpp)
 [Tower Breakers, Revisited!](https://www.hackerrank.com/challenges/tower-breakers-revisited-1/problem) | [TowerBreakersRevisited.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/TowerBreakersRevisited.cpp)
 [Tower Breakers, Again!](https://www.hackerrank.com/challenges/tower-breakers-again-1/problem) | [TowerBreakersAgain.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/TowerBreakersAgain.cpp)
 [Tower Breakers - The Final Battle](https://www.hackerrank.com/challenges/tower-breakers-the-final-battle-1/problem) | [TowerBreakersFinal.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/TowerBreakersFinal.cpp)
+[Vertical Rooks](https://www.hackerrank.com/challenges/vertical-rooks/problem) | [VerticalRooks.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/VerticalRooks.cpp)
 [Zero-Move Nim](https://www.hackerrank.com/challenges/zero-move-nim/problem) | [ZeroMoveNim.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/ZeroMoveNim.cpp) 
 
 ### graph theory
