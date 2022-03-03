@@ -9,7 +9,6 @@ int main() {
 	while(t--) {
 
 	}
-	
 	//cerr << difftime(clock(), start) << endl;
 	return 0;
 }

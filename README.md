@@ -147,6 +147,7 @@ Problem | Solution
 [Play on benders](https://www.hackerrank.com/challenges/benders-play/problem) | [PlayOnBenders.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/PlayOnBenders.cpp)
 [Poker Nim](https://www.hackerrank.com/challenges/poker-nim-1/problem) | [PokerNim.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/PokerNim.cpp)
 [Powers Game](https://www.hackerrank.com/challenges/powers-game-1/problem) | [PowersGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/PowersGame.cpp)
+[Stone Piles](https://www.hackerrank.com/challenges/stone-piles/problem) | [StonePiles.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/StonePiles.cpp) 
 [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem) | [TowerBreakers.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/TowerBreakers.cpp)
 [Tower Breakers, Revisited!](https://www.hackerrank.com/challenges/tower-breakers-revisited-1/problem) | [TowerBreakersRevisited.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/TowerBreakersRevisited.cpp)
 [Tower Breakers, Again!](https://www.hackerrank.com/challenges/tower-breakers-again-1/problem) | [TowerBreakersAgain.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/TowerBreakersAgain.cpp)
