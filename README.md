@@ -134,6 +134,7 @@ Problem | Solution
 [Alice and Bob's Silly Game](https://www.hackerrank.com/challenges/alice-and-bobs-silly-game/problem) | [AliceAndBobsSillyGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/AliceAndBobsSillyGame.cpp)
 [A stones game](https://www.hackerrank.com/challenges/half/problem) | [AStonesGames.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/AStonesGames.cpp)
 [Bob and Ben](https://www.hackerrank.com/challenges/bob-and-ben/problem) | [BobAndBen.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/BobAndBen.cpp)
+[Chocolate Game](https://www.hackerrank.com/challenges/chocolate-game/problem) | [ChocolateGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/ChocolateGame.cpp) 
 [Chocolate in Box](https://www.hackerrank.com/challenges/chocolate-in-box/problem) | [ChocolateInABox.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/ChocolateInABox.cpp)
 [Deforestation](https://www.hackerrank.com/challenges/deforestation-1/problem) | [Deforestation.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/Deforestation.cpp)
 [Fun Game](//https://www.hackerrank.com/challenges/fun-game-1/problem) | [FunGame.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/game%20theory/FunGame.cpp)
