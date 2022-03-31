@@ -578,6 +578,9 @@ Problem | Solution
 [#107: Minimal network](https://www.hackerrank.com/contests/projecteuler/challenges/euler107) | [euler107.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler107.cpp)
 [#122: Efficient exponentiation](https://www.hackerrank.com/contests/projecteuler/challenges/euler122) | [euler122.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler122.cpp)
 [#186: Connectedness of a network](https://www.hackerrank.com/contests/projecteuler/challenges/euler186) | [euler186.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler186.cpp)
+[#201: Subsets with a unique sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler201) | [euler201.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler201.cpp)
+[#218: Perfect right-angled triangles](https://www.hackerrank.com/contests/projecteuler/challenges/euler218) | [euler218.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler218.cpp)
+[#230: Fibonacci Words](https://www.hackerrank.com/contests/projecteuler/challenges/euler230) | [euler230.py](https://github.com/HannoFlohr/hackerrank/blob/master/ProjectEuler/euler230.py)
 
 ## 10 Days of Statistics
 Day | Problem | Solution
