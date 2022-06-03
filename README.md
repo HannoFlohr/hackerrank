@@ -625,6 +625,7 @@ Problem | Solution
 [Little Ashish's Huge Donation](https://www.hackerrank.com/challenges/little-chammys-huge-donation/problem) | [LittleAshishsHugeDonation.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/LittleAshishsHugeDonation.cpp)
 [Matrix Tracing](https://www.hackerrank.com/challenges/matrix-tracing/problem) | [MatrixTracing.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/MatrixTracing.cpp)
 [Mehta and his Laziness](https://www.hackerrank.com/challenges/mehta-and-his-laziness/problem) | [MehtaAndLaziness.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/MehtaAndLaziness.cpp)
+[Pairwise Sum and Divide](https://www.hackerrank.com/challenges/pairwise-sum-and-divide/problem) | [PairwiseSumAndDivide.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/PairwiseSumAndDivide.cpp)
 [Power Calculation](https://www.hackerrank.com/challenges/power-calculation/problem) | [PowerCalculation.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/PowerCalculation.cpp)
 [Sherlock and Permutations](https://www.hackerrank.com/challenges/sherlock-and-permutations/problem) | [SherlockAndPermutations.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/SherlockAndPermutations.cpp)
 [Strange numbers](https://www.hackerrank.com/challenges/strange-numbers/problem) | [StrangeNumbers.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/mathematics/StrangeNumbers.cpp)
