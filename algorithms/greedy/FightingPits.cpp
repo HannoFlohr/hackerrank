@@ -19,7 +19,7 @@ int who_wins(const unsigned int &x, const unsigned int &y, const vector<vector<u
             if(team2_fighter<0)
                 return x;
             for(int i=team2_fighter+1; i<=team2_fighter+team1[team1_fighter]; i++)
-                sum_y -= team2[i];
+                sum_y -= team2[i]; 
         }
         else {
             if(sum_y >= sum_x)
@@ -39,6 +39,7 @@ int who_wins(const unsigned int &x, const unsigned int &y, const vector<vector<u
 int main() {
     ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
     unsigned int n, k, q, s, t, x, y;
+    string results = "";
     cin >> n >> k >> q;
     
     //Setup teams
@@ -59,8 +60,11 @@ int main() {
             sums[y] += x;
         }
         else// if(t==2) 
-            cout << who_wins(x, y, teams, sums[x], sums[y]) << endl;
+            results += to_string( who_wins(x, y, teams, sums[x], sums[y]) ) + "\n";
     }
+    
+    cout << results << endl;
     
     return 0;
 }
+//https://www.hackerrank.com/challenges/fighting-pits/problem
