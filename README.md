@@ -108,6 +108,7 @@ Problem | Solution
 [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) | [Knapsack.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/Knapsack.cpp)
 [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks/problem) | [LegoBlocks.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/LegoBlocks.cpp)
 [Mandragora Forest](https://www.hackerrank.com/challenges/mandragora/problem) | [MandragoraForest.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/MandragoraForest.cpp)
+[Mr K Marsh](https://www.hackerrank.com/challenges/mr-k-marsh/problem) | [MrKMarsh.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/MrKMarsh.cpp)
 [Play with words](https://www.hackerrank.com/challenges/strplay/problem) | [PlayWithWords.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/PlayWithWords.cpp)
 [Prime Digit Sums](https://www.hackerrank.com/challenges/prime-digit-sums/problem) | [PrimeDigitSums.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/PrimeDigitSums.cpp)
 [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem) | [PrimeXOR.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/PrimeXOR.cpp)
@@ -183,6 +184,7 @@ Problem | Solution
 ### greedy
 Problem | Solution
 ------- | --------
+[Accessory Collection](https://www.hackerrank.com/challenges/accessory-collection/problem) | [AccessoryCollection.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/greedy/AccessoryCollection.cpp)
 [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem) | [BeautifulPairs.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/greedy/BeautifulPairs.cpp)
 [Candies](https://www.hackerrank.com/challenges/candies/problem) | [Candies.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/greedy/Candies.cpp)
 [Chief Hopper](https://www.hackerrank.com/challenges/chief-hopper/problem) | [ChiefHopper.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/greedy/ChiefHopper.cpp)
