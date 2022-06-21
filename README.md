@@ -115,6 +115,7 @@ Problem | Solution
 [Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back/problem) | [RedJohnIsBack.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/RedJohnIsBack.cpp)
 [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | [SamAndSubstrings.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/SamAndSubstrings.cpp)
 [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost/problem) | [SherlockAndCost.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/SherlockAndCost.cpp)
+[Sherlock's Array Merging Algorithm](https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm/editorial) | [SherlocksArrayMergingAlgorithm.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/SherlocksArrayMergingAlgorithm.cpp)
 [Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem) | [StockMaximize.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/StockMaximize.cpp)
 [Swap Permutation](https://www.hackerrank.com/challenges/swappermutation/problem) | [SwapPermutations.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/SwapPermutations.cpp)
 [Substring Diff](https://www.hackerrank.com/challenges/substring-diff/problem) | [SubstringDiff.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/dynamic%20programming/SubstringDiff.cpp)
