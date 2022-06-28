@@ -173,6 +173,7 @@ Problem | Solution
 [Jeanie's Route](https://www.hackerrank.com/challenges/jeanies-route/problem) | [JeaniesRoute.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/JeaniesRoute.cpp)
 [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) | [JourneyToTheMoon.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/JourneyToTheMoon.cpp)
 [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub/problem) | [KruskalMST.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/KruskalMST.cpp)
+[Minimum MST Graph](https://www.hackerrank.com/challenges/minimum-mst-graph/problem) | [MinimumMSTGraph.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/MinimumMSTGraph.cpp)
 [Minimum Penalty Path](https://www.hackerrank.com/challenges/beautiful-path/problem) | [MinimumPenaltyPath.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/MinimumPenaltyPath.cpp)
 [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub/problem) | [PrimsMST.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/PrimsMST.cpp)
 [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem) | [RoadsAndLibraries.cpp](https://github.com/HannoFlohr/hackerrank/blob/master/algorithms/graph%20theory/RoadsAndLibraries.cpp)
